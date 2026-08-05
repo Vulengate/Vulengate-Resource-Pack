@@ -1,0 +1,78 @@
+{
+    "parent": "builtin/entity",
+    "gui_light": "front",
+    "textures": {
+        "particle": "block/dark_oak_planks"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, 12 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ -10, 2, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ 10, 0, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "gui": {
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 2, 3, 0 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -2, 4, -5],
+            "scale":[ 0.5, 0.5, 0.5]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
+        }
+    },
+    "overrides": [
+        { "predicate": {"blocking": 1},"model": "item/shield_blocking" },
+		
+		{ "predicate": {"custom_model_data": 1},"model": "warden_set/shield" },
+		{ "predicate": {"custom_model_data": 1, "blocking": 1},"model": "warden_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 2},"model": "halloween_set/shield" },
+		{ "predicate": {"custom_model_data": 2, "blocking": 1},"model": "halloween_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 3},"model": "wither_set/shield" },
+		{ "predicate": {"custom_model_data": 3, "blocking": 1},"model": "wither_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 4},"model": "enderdragon_set/shield" },
+		{ "predicate": {"custom_model_data": 4, "blocking": 1},"model": "enderdragon_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 11},"model": "planetary_set/shield" },
+		{ "predicate": {"custom_model_data": 11, "blocking": 1},"model": "planetary_set/shield" },
+		{ "predicate": {"custom_model_data": 12},"model": "guardian_set/shield" },
+		{ "predicate": {"custom_model_data": 12, "blocking": 1},"model": "guardian_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 13},"model": "guardianel_set/shield" },
+		{ "predicate": {"custom_model_data": 13, "blocking": 1},"model": "guardianel_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 16},"model": "frog_set/shield" },
+		{ "predicate": {"custom_model_data": 16, "blocking": 1},"model": "frog_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 17},"model": "turtle_set/shield" },
+		{ "predicate": {"custom_model_data": 17, "blocking": 1},"model": "turtle_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 22},"model": "scarecrow_set/shield" },
+		{ "predicate": {"custom_model_data": 22, "blocking": 1},"model": "scarecrow_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 23},"model": "vampire_set/shield" },
+		{ "predicate": {"custom_model_data": 23, "blocking": 1},"model": "vampire_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 25},"model": "library_set/shield" },
+		{ "predicate": {"custom_model_data": 25, "blocking": 1},"model": "library_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 26},"model": "celebration_set/shield" },
+		{ "predicate": {"custom_model_data": 26, "blocking": 1},"model": "celebration_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 27},"model": "sweet_set/shield" },
+		{ "predicate": {"custom_model_data": 27, "blocking": 1},"model": "sweet_set/shield_blocking" },
+		{ "predicate": {"custom_model_data": 28},"model": "toy_set/shield" },
+		{ "predicate": {"custom_model_data": 28, "blocking": 1},"model": "toy_set/shield_blocking" }
+    ]
+}

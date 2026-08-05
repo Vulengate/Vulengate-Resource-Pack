@@ -1,0 +1,264 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/netherite_axe"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "warden_set/axe"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "halloween_set/machete_clean"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "wither_set/axe"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "art_set/axe"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "arcade_set/axe"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "2024_set/axe"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "planetary_set/axe"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "guardian_set/axe"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "guardianel_set/axe"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "cave_set/axe"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "frog_set/axe"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "turtle_set/axe"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "camping_set/axe"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "desert_set/axe"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "scarecrow_set/axe"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "vampire_set/axe"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "library_set/axe"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "sweet_set/axe"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "toy_set/axe"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "archaeology_set/axe"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "pet_set/axe"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "honeycomb_set/axe"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/axe"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "knight_set/axe"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "beach_set/axe"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "pharaoh_set/axe"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "software_set/axe"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "gothic_set/axe"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "dragon_set/axe"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "winteranimal_set/axe"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "krampus_set/axe"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "bakery_set/axe"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "pond_set/axe"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "extraterrestrial_set/axe"
+        }
+      },
+      {
+        "threshold": 4002,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/warden/axe"
+        }
+      },
+      {
+        "threshold": 4005,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/minotaur/axe"
+        }
+      }
+    ]
+  }
+}

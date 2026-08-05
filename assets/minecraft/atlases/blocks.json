@@ -1,0 +1,389 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "2024_set",
+      "prefix": "2024_set/"
+    },
+    {
+      "type": "directory",
+      "source": "2025_set",
+      "prefix": "2025_set/"
+    },
+    {
+      "type": "directory",
+      "source": "2026_set",
+      "prefix": "2026_set/"
+    },
+    {
+      "type": "directory",
+      "source": "adv_swords",
+      "prefix": "adv_swords/"
+    },
+    {
+      "type": "directory",
+      "source": "advent_calendar",
+      "prefix": "advent_calendar/"
+    },
+    {
+      "type": "directory",
+      "source": "arcade_set",
+      "prefix": "arcade_set/"
+    },
+    {
+      "type": "directory",
+      "source": "archaeology_set",
+      "prefix": "archaeology_set/"
+    },
+    {
+      "type": "directory",
+      "source": "archer_set",
+      "prefix": "archer_set/"
+    },
+    {
+      "type": "directory",
+      "source": "arctic_set",
+      "prefix": "arctic_set/"
+    },
+    {
+      "type": "directory",
+      "source": "art_set",
+      "prefix": "art_set/"
+    },
+    {
+      "type": "directory",
+      "source": "aviary_set",
+      "prefix": "aviary_set/"
+    },
+    {
+      "type": "directory",
+      "source": "bakery_set",
+      "prefix": "bakery_set/"
+    },
+    {
+      "type": "directory",
+      "source": "balloons",
+      "prefix": "balloons/"
+    },
+    {
+      "type": "directory",
+      "source": "beach_set",
+      "prefix": "beach_set/"
+    },
+    {
+      "type": "directory",
+      "source": "boss_sets",
+      "prefix": "boss_sets/"
+    },
+    {
+      "type": "directory",
+      "source": "breakfast_set",
+      "prefix": "breakfast_set/"
+    },
+    {
+      "type": "directory",
+      "source": "camping_set",
+      "prefix": "camping_set/"
+    },
+    {
+      "type": "directory",
+      "source": "cave_set",
+      "prefix": "cave_set/"
+    },
+    {
+      "type": "directory",
+      "source": "celebration_set",
+      "prefix": "celebration_set/"
+    },
+    {
+      "type": "directory",
+      "source": "cluescrolls",
+      "prefix": "cluescrolls/"
+    },
+    {
+      "type": "directory",
+      "source": "coven_set",
+      "prefix": "coven_set/"
+    },
+    {
+      "type": "directory",
+      "source": "cryptid_set",
+      "prefix": "cryptid_set/"
+    },
+    {
+      "type": "directory",
+      "source": "custom",
+      "prefix": "custom/"
+    },
+    {
+      "type": "directory",
+      "source": "customfishing",
+      "prefix": "customfishing/"
+    },
+    {
+      "type": "directory",
+      "source": "desert_set",
+      "prefix": "desert_set/"
+    },
+    {
+      "type": "directory",
+      "source": "dragon_set",
+      "prefix": "dragon_set/"
+    },
+    {
+      "type": "directory",
+      "source": "enderdragon_set",
+      "prefix": "enderdragon_set/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+      "type": "directory",
+      "source": "extraterrestrial_set",
+      "prefix": "extraterrestrial_set/"
+    },
+    {
+      "type": "directory",
+      "source": "fallhats",
+      "prefix": "fallhats/"
+    },
+    {
+      "type": "directory",
+      "source": "fisherman_set",
+      "prefix": "fisherman_set/"
+    },
+    {
+      "type": "directory",
+      "source": "fishing_pack",
+      "prefix": "fishing_pack/"
+    },
+    {
+      "type": "directory",
+      "source": "frog_set",
+      "prefix": "frog_set/"
+    },
+    {
+      "type": "directory",
+      "source": "gardening_set",
+      "prefix": "gardening_set/"
+    },
+    {
+      "type": "directory",
+      "source": "gemstone_set",
+      "prefix": "gemstone_set/"
+    },
+    {
+      "type": "directory",
+      "source": "gladiator_set",
+      "prefix": "gladiator_set/"
+    },
+    {
+      "type": "directory",
+      "source": "gothic_set",
+      "prefix": "gothic_set/"
+    },
+    {
+      "type": "directory",
+      "source": "guardian_set",
+      "prefix": "guardian_set/"
+    },
+    {
+      "type": "directory",
+      "source": "guardianel_set",
+      "prefix": "guardianel_set/"
+    },
+    {
+      "type": "directory",
+      "source": "halloween2025_set",
+      "prefix": "halloween2025_set/"
+    },
+    {
+      "type": "directory",
+      "source": "halloween_set",
+      "prefix": "halloween_set/"
+    },
+    {
+      "type": "directory",
+      "source": "hero_set",
+      "prefix": "hero_set/"
+    },
+    {
+      "type": "directory",
+      "source": "hmc",
+      "prefix": "hmc/"
+    },
+    {
+      "type": "directory",
+      "source": "honeycomb_set",
+      "prefix": "honeycomb_set/"
+    },
+    {
+      "type": "directory",
+      "source": "jeqo",
+      "prefix": "jeqo/"
+    },
+    {
+      "type": "directory",
+      "source": "knight_set",
+      "prefix": "knight_set/"
+    },
+    {
+      "type": "directory",
+      "source": "krampus_set",
+      "prefix": "krampus_set/"
+    },
+    {
+      "type": "directory",
+      "source": "library_set",
+      "prefix": "library_set/"
+    },
+    {
+      "type": "directory",
+      "source": "littleroom_bugpack",
+      "prefix": "littleroom_bugpack/"
+    },
+    {
+      "type": "directory",
+      "source": "meadow_set",
+      "prefix": "meadow_set/"
+    },
+    {
+      "type": "directory",
+      "source": "menu",
+      "prefix": "menu/"
+    },
+    {
+      "type": "directory",
+      "source": "monarch_set",
+      "prefix": "monarch_set/"
+    },
+    {
+      "type": "directory",
+      "source": "mythology_set",
+      "prefix": "mythology_set/"
+    },
+    {
+      "type": "directory",
+      "source": "paladin_set",
+      "prefix": "paladin_set/"
+    },
+    {
+      "type": "directory",
+      "source": "pet_set",
+      "prefix": "pet_set/"
+    },
+    {
+      "type": "directory",
+      "source": "pharaoh_set",
+      "prefix": "pharaoh_set/"
+    },
+    {
+      "type": "directory",
+      "source": "planetary_set",
+      "prefix": "planetary_set/"
+    },
+    {
+      "type": "directory",
+      "source": "pond_set",
+      "prefix": "pond_set/"
+    },
+    {
+      "type": "directory",
+      "source": "scarecrow_set",
+      "prefix": "scarecrow_set/"
+    },
+    {
+      "type": "directory",
+      "source": "software_set",
+      "prefix": "software_set/"
+    },
+    {
+      "type": "directory",
+      "source": "springhats2025",
+      "prefix": "springhats2025/"
+    },
+    {
+      "type": "directory",
+      "source": "stpatrick2025",
+      "prefix": "stpatrick2025/"
+    },
+    {
+      "type": "directory",
+      "source": "sweet_set",
+      "prefix": "sweet_set/"
+    },
+    {
+      "type": "directory",
+      "source": "tokens",
+      "prefix": "tokens/"
+    },
+    {
+      "type": "directory",
+      "source": "toro",
+      "prefix": "toro/"
+    },
+    {
+      "type": "directory",
+      "source": "toy_set",
+      "prefix": "toy_set/"
+    },
+    {
+      "type": "directory",
+      "source": "turtle_set",
+      "prefix": "turtle_set/"
+    },
+    {
+      "type": "directory",
+      "source": "vacation_set",
+      "prefix": "vacation_set/"
+    },
+    {
+      "type": "directory",
+      "source": "vampire_set",
+      "prefix": "vampire_set/"
+    },
+    {
+      "type": "directory",
+      "source": "vouchers",
+      "prefix": "vouchers/"
+    },
+    {
+      "type": "directory",
+      "source": "vulengate_fish",
+      "prefix": "vulengate_fish/"
+    },
+    {
+      "type": "directory",
+      "source": "warden_set",
+      "prefix": "warden_set/"
+    },
+    {
+      "type": "directory",
+      "source": "weather_set",
+      "prefix": "weather_set/"
+    },
+    {
+      "type": "directory",
+      "source": "winteranimal_set",
+      "prefix": "winteranimal_set/"
+    },
+    {
+      "type": "directory",
+      "source": "winterhats",
+      "prefix": "winterhats/"
+    },
+    {
+      "type": "directory",
+      "source": "wither_set",
+      "prefix": "wither_set/"
+    },
+    {
+      "type": "directory",
+      "source": "wyrmsteel_set",
+      "prefix": "wyrmsteel_set/"
+    }
+  ]
+}

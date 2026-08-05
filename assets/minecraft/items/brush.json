@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/brush"
+        },
+        "entries": [
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "art_set/brush"
+                }
+            },
+			{
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "archaeology_set/brush"
+                }
+            }
+        ]
+    }
+}

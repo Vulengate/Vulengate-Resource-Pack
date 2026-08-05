@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/flint_and_steel"
+        },
+        "entries": [
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "2025_set/flint_and_steel"
+                }
+            },
+			{
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "cryptid_set/flint_and_steel"
+                }
+            }
+        ]
+    }
+}

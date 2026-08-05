@@ -1,0 +1,13 @@
+{
+  "layers": {
+    "horse_body": [
+      { "texture": "minecraft:iron" }
+    ],
+    "humanoid": [
+      { "texture": "minecraft:archer" }
+    ],
+    "humanoid_leggings": [
+      { "texture": "minecraft:archer" }
+    ]
+  }
+}

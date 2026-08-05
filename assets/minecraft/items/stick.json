@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/stick"
+    },
+    "entries": [
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "camping_set/stick"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "scarecrow_set/stick"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/stick"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "vacation_set/stick"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "breakfast_set/stick"
+        }
+      }
+    ]
+  }
+}

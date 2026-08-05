@@ -1,0 +1,903 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/cod"
+  },
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        90,
+        -60
+      ],
+      "translation": [
+        -7,
+        -4,
+        -7
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1134
+      },
+      "model": "fishing_pack/starfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1137
+      },
+      "model": "fishing_pack/bubblefish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1138
+      },
+      "model": "fishing_pack/trout"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1139
+      },
+      "model": "fishing_pack/greenfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1141
+      },
+      "model": "fishing_pack/bream"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1143
+      },
+      "model": "fishing_pack/rosy_barb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1145
+      },
+      "model": "fishing_pack/gemfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1146
+      },
+      "model": "fishing_pack/chromis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1147
+      },
+      "model": "fishing_pack/icefish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1148
+      },
+      "model": "fishing_pack/shrimp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1149
+      },
+      "model": "fishing_pack/blue_eel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1151
+      },
+      "model": "fishing_pack/anthias"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1152
+      },
+      "model": "fishing_pack/green_barb"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1153
+      },
+      "model": "fishing_pack/blue_grenadier"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1155
+      },
+      "model": "fishing_pack/stingray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1172
+      },
+      "model": "fishing_pack/obsidianfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1173
+      },
+      "model": "fishing_pack/magma_trout"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1174
+      },
+      "model": "fishing_pack/molten_coralfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1175
+      },
+      "model": "fishing_pack/blazorb_jellyfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1176
+      },
+      "model": "fishing_pack/lava_anthias"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1177
+      },
+      "model": "fishing_pack/fire_eel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1178
+      },
+      "model": "fishing_pack/warped_shrimp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1179
+      },
+      "model": "fishing_pack/crimson_bubblefish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "vulengate_fish/anaconda"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "vulengate_fish/anaconda_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20002
+      },
+      "model": "vulengate_fish/anaconda_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20003
+      },
+      "model": "vulengate_fish/arctic_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20004
+      },
+      "model": "vulengate_fish/arctic_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20005
+      },
+      "model": "vulengate_fish/arctic_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20006
+      },
+      "model": "vulengate_fish/azalea_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20007
+      },
+      "model": "vulengate_fish/azalea_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20008
+      },
+      "model": "vulengate_fish/azalea_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20009
+      },
+      "model": "vulengate_fish/blossom_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20010
+      },
+      "model": "vulengate_fish/blossom_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20011
+      },
+      "model": "vulengate_fish/blossom_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20012
+      },
+      "model": "vulengate_fish/clay_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20013
+      },
+      "model": "vulengate_fish/clay_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20014
+      },
+      "model": "vulengate_fish/clay_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20015
+      },
+      "model": "vulengate_fish/coral_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20016
+      },
+      "model": "vulengate_fish/coral_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20017
+      },
+      "model": "vulengate_fish/coral_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20018
+      },
+      "model": "vulengate_fish/flower_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20019
+      },
+      "model": "vulengate_fish/flower_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20020
+      },
+      "model": "vulengate_fish/flower_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20021
+      },
+      "model": "vulengate_fish/frozen_sunfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20022
+      },
+      "model": "vulengate_fish/frozen_sunfish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20023
+      },
+      "model": "vulengate_fish/frozen_sunfish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20024
+      },
+      "model": "vulengate_fish/lion_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20025
+      },
+      "model": "vulengate_fish/lion_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20026
+      },
+      "model": "vulengate_fish/lion_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20027
+      },
+      "model": "vulengate_fish/mud_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20028
+      },
+      "model": "vulengate_fish/mud_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20029
+      },
+      "model": "vulengate_fish/mud_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20030
+      },
+      "model": "vulengate_fish/mystery_mackerel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20031
+      },
+      "model": "vulengate_fish/mystery_mackerel_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20032
+      },
+      "model": "vulengate_fish/mystery_mackerel_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20033
+      },
+      "model": "vulengate_fish/panda_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20034
+      },
+      "model": "vulengate_fish/panda_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20035
+      },
+      "model": "vulengate_fish/panda_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20036
+      },
+      "model": "vulengate_fish/rock_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20037
+      },
+      "model": "vulengate_fish/rock_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20038
+      },
+      "model": "vulengate_fish/rock_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20039
+      },
+      "model": "vulengate_fish/sand_shark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20040
+      },
+      "model": "vulengate_fish/sand_shark_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20041
+      },
+      "model": "vulengate_fish/sand_shark_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20042
+      },
+      "model": "vulengate_fish/sculk_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20043
+      },
+      "model": "vulengate_fish/sculk_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20044
+      },
+      "model": "vulengate_fish/sculk_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20045
+      },
+      "model": "vulengate_fish/shroom_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20046
+      },
+      "model": "vulengate_fish/shroom_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20047
+      },
+      "model": "vulengate_fish/shroom_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20048
+      },
+      "model": "vulengate_fish/slime_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20049
+      },
+      "model": "vulengate_fish/slime_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20050
+      },
+      "model": "vulengate_fish/slime_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20051
+      },
+      "model": "vulengate_fish/spartan_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20052
+      },
+      "model": "vulengate_fish/spartan_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20053
+      },
+      "model": "vulengate_fish/spartan_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20054
+      },
+      "model": "vulengate_fish/stale_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20055
+      },
+      "model": "vulengate_fish/stale_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20056
+      },
+      "model": "vulengate_fish/stale_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20057
+      },
+      "model": "vulengate_fish/wild_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20058
+      },
+      "model": "vulengate_fish/wild_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20059
+      },
+      "model": "vulengate_fish/wild_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20060
+      },
+      "model": "vulengate_fish/wolf_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20061
+      },
+      "model": "vulengate_fish/wolf_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20062
+      },
+      "model": "vulengate_fish/wolf_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20063
+      },
+      "model": "vulengate_fish/elimarands_catfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20064
+      },
+      "model": "vulengate_fish/elimarands_catfish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20065
+      },
+      "model": "vulengate_fish/elimarands_catfish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20066
+      },
+      "model": "vulengate_fish/flexy_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20067
+      },
+      "model": "vulengate_fish/flexy_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20068
+      },
+      "model": "vulengate_fish/flexy_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20069
+      },
+      "model": "vulengate_fish/seazis_starfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20070
+      },
+      "model": "vulengate_fish/seazis_starfish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20071
+      },
+      "model": "vulengate_fish/seazis_starfish_silver_star"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20072
+      },
+      "model": "vulengate_fish/henchmanatee"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50000
+      },
+      "model": "customfishing/fish/radioactive_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50001
+      },
+      "model": "customfishing/fish/tuna_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50002
+      },
+      "model": "customfishing/fish/tuna_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50003
+      },
+      "model": "customfishing/fish/tuna_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50004
+      },
+      "model": "customfishing/fish/pike_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50005
+      },
+      "model": "customfishing/fish/pike_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50006
+      },
+      "model": "customfishing/fish/pike_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50007
+      },
+      "model": "customfishing/fish/gold_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50008
+      },
+      "model": "customfishing/fish/gold_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50009
+      },
+      "model": "customfishing/fish/gold_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50010
+      },
+      "model": "customfishing/fish/perch_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50011
+      },
+      "model": "customfishing/fish/perch_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50012
+      },
+      "model": "customfishing/fish/perch_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50013
+      },
+      "model": "customfishing/fish/mullet_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50014
+      },
+      "model": "customfishing/fish/mullet_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50015
+      },
+      "model": "customfishing/fish/mullet_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50016
+      },
+      "model": "customfishing/fish/sardine_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50017
+      },
+      "model": "customfishing/fish/sardine_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50018
+      },
+      "model": "customfishing/fish/sardine_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50019
+      },
+      "model": "customfishing/fish/carp_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50020
+      },
+      "model": "customfishing/fish/carp_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50021
+      },
+      "model": "customfishing/fish/carp_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50022
+      },
+      "model": "customfishing/fish/cat_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50023
+      },
+      "model": "customfishing/fish/cat_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50024
+      },
+      "model": "customfishing/fish/cat_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50025
+      },
+      "model": "customfishing/fish/octopus_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50026
+      },
+      "model": "customfishing/fish/octopus_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50027
+      },
+      "model": "customfishing/fish/octopus_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50028
+      },
+      "model": "customfishing/fish/sunfish_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50029
+      },
+      "model": "customfishing/fish/sunfish_fish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50030
+      },
+      "model": "customfishing/fish/sunfish_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50031
+      },
+      "model": "customfishing/fish/red_spnapper_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50032
+      },
+      "model": "customfishing/fish/red_spnapper_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50033
+      },
+      "model": "customfishing/fish/red_spnapper_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50034
+      },
+      "model": "customfishing/fish/salmon_void_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50035
+      },
+      "model": "customfishing/fish/salmon_void_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50036
+      },
+      "model": "customfishing/fish/salmon_void_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50037
+      },
+      "model": "customfishing/fish/woodskip_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50038
+      },
+      "model": "customfishing/fish/woodskip_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50039
+      },
+      "model": "customfishing/fish/woodskip_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50040
+      },
+      "model": "customfishing/fish/sturgeon_fish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50041
+      },
+      "model": "customfishing/fish/sturgeon_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50042
+      },
+      "model": "customfishing/fish/sturgeon_fish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50043
+      },
+      "model": "customfishing/fish/blue_jellyfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50044
+      },
+      "model": "customfishing/fish/blue_jellyfish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50045
+      },
+      "model": "customfishing/fish/blue_jellyfish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50046
+      },
+      "model": "customfishing/fish/pink_jellyfish"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50047
+      },
+      "model": "customfishing/fish/pink_jellyfish_silver_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50048
+      },
+      "model": "customfishing/fish/pink_jellyfish_golden_star"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50100
+      },
+      "model": "customfishing/fish/rainbow_fish"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/tropical_fish"
+    },
+    "entries": [
+      {
+        "threshold": 1001,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/anaconda"
+        }
+      },
+      {
+        "threshold": 1002,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/azalea_fish"
+        }
+      },
+      {
+        "threshold": 1003,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/blossom_fish"
+        }
+      },
+      {
+        "threshold": 1004,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/clay_fish"
+        }
+      },
+      {
+        "threshold": 1005,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/coral_fish"
+        }
+      },
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/flower_fish"
+        }
+      },
+      {
+        "threshold": 1007,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/frozen_sunfish"
+        }
+      },
+      {
+        "threshold": 1008,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/lion_fish"
+        }
+      },
+      {
+        "threshold": 1009,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/mud_fish"
+        }
+      },
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/panda_fish"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/rock_fish"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sand_shark"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sculk_fish"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/shroom_fish"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/slime_fish"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/stale_fish"
+        }
+      },
+      {
+        "threshold": 1017,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/wolf_fish"
+        }
+      },
+      {
+        "threshold": 1018,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/mystery_mackerel"
+        }
+      },
+      {
+        "threshold": 1019,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/spartan_fish"
+        }
+      },
+      {
+        "threshold": 1020,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/elimarands_catfish"
+        }
+      },
+      {
+        "threshold": 1021,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/seazis_starfish"
+        }
+      },
+      {
+        "threshold": 1022,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/flexy_fish"
+        }
+      },
+      {
+        "threshold": 1023,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/hench_manatee"
+        }
+      },
+      {
+        "threshold": 1024,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/wild_fish"
+        }
+      },
+      {
+        "threshold": 1025,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/glowing_fish"
+        }
+      },
+      {
+        "threshold": 1026,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/frog"
+        }
+      },
+      {
+        "threshold": 1027,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/kraken"
+        }
+      },
+      {
+        "threshold": 1028,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/electric_eel"
+        }
+      },
+      {
+        "threshold": 1029,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sunflower_sunfish"
+        }
+      },
+      {
+        "threshold": 1030,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/rattlesnake"
+        }
+      },
+      {
+        "threshold": 1031,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/olympic_fish"
+        }
+      },
+      {
+        "threshold": 1032,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/cursed_carp"
+        }
+      },
+      {
+        "threshold": 1033,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/angler_fish"
+        }
+      },
+      {
+        "threshold": 1034,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/quilltail"
+        }
+      },
+      {
+        "threshold": 1035,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/ifish"
+        }
+      },
+      {
+        "threshold": 1036,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/glamour_guppy"
+        }
+      },
+      {
+        "threshold": 1037,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/arctic_fish"
+        }
+      },
+      {
+        "threshold": 1038,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/fossil_fish"
+        }
+      },
+      {
+        "threshold": 1039,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/megalodon"
+        }
+      },
+      {
+        "threshold": 1040,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/gummy_shark_blue"
+        }
+      },
+      {
+        "threshold": 1041,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/gummy_shark_red"
+        }
+      },
+      {
+        "threshold": 1042,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/gummy_shark_green"
+        }
+      },
+      {
+        "threshold": 1043,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/gummy_shark_yellow"
+        }
+      },
+      {
+        "threshold": 1044,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/love_fish"
+        }
+      },
+      {
+        "threshold": 1045,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/cutest_catfish"
+        }
+      },
+      {
+        "threshold": 1046,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/plushy_fish"
+        }
+      },
+      {
+        "threshold": 1047,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/fishinos"
+        }
+      },
+      {
+        "threshold": 1048,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/squeak_fish"
+        }
+      },
+      {
+        "threshold": 1049,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/cloud_fish"
+        }
+      },
+      {
+        "threshold": 1050,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/creaking_fish"
+        }
+      },
+      {
+        "threshold": 1051,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/butterfly_fish"
+        }
+      },
+      {
+        "threshold": 1052,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/butterfly_fish_blue"
+        }
+      },
+      {
+        "threshold": 1053,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/fishcken"
+        }
+      },
+      {
+        "threshold": 1054,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/tourmaline_tetra"
+        }
+      },
+      {
+        "threshold": 1055,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/crystal_fish"
+        }
+      },
+      {
+        "threshold": 1056,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/white_whale"
+        }
+      },
+      {
+        "threshold": 1057,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sea_anemone"
+        }
+      },
+      {
+        "threshold": 1058,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/legend_fish"
+        }
+      },
+      {
+        "threshold": 1059,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/veiled_salpuga"
+        }
+      },
+      {
+        "threshold": 1060,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sword_fish"
+        }
+      },
+      {
+        "threshold": 1062,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/trojan_seahorse"
+        }
+      },
+      {
+        "threshold": 1063,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/marble_fish"
+        }
+      },
+      {
+        "threshold": 1064,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/phish_virus"
+        }
+      },
+      {
+        "threshold": 1065,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/steampunk_fish"
+        }
+      },
+      {
+        "threshold": 1066,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/block_ness_monster"
+        }
+      },
+      {
+        "threshold": 1067,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/swamp_monster"
+        }
+      },
+      {
+        "threshold": 1068,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/corpse_fish"
+        }
+      },
+      {
+        "threshold": 1069,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/gothic_guppy"
+        }
+      },
+      {
+        "threshold": 1070,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/jousting_swordfish"
+        }
+      },
+      {
+        "threshold": 1071,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sunburnt_salmon"
+        }
+      },
+      {
+        "threshold": 1072,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/mango_fish"
+        }
+      },
+      {
+        "threshold": 1073,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/candy_cane_tetra"
+        }
+      },
+      {
+        "threshold": 1074,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/dagger_fish"
+        }
+      },
+      {
+        "threshold": 1075,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/fairy_fish"
+        }
+      },
+      {
+        "threshold": 1076,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/burbot"
+        }
+      },
+      {
+        "threshold": 1077,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/party_clownfish"
+        }
+      },
+      {
+        "threshold": 1078,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/cupcake_cod"
+        }
+      },
+      {
+        "threshold": 1079,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/carpuccino"
+        }
+      },
+      {
+        "threshold": 1080,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/clover_koi"
+        }
+      },
+      {
+        "threshold": 1081,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/elder_fish"
+        }
+      },
+      {
+        "threshold": 1082,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/hose_snake"
+        }
+      },
+      {
+        "threshold": 1083,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/honey_fish"
+        }
+      },
+      {
+        "threshold": 1084,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/pond_snail"
+        }
+      },
+      {
+        "threshold": 1085,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/butter_fish"
+        }
+      },
+      {
+        "threshold": 1086,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/sunglass_fish"
+        }
+      },
+      {
+        "threshold": 1087,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/alien_squid"
+        }
+      },
+      {
+        "threshold": 1088,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/ifish"
+        }
+      },
+      {
+        "threshold": 2001,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/fisherwork"
+        }
+      },
+      {
+        "threshold": 2002,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/puckerfish"
+        }
+      },
+      {
+        "threshold": 2003,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/pot_of_goldfish"
+        }
+      }
+    ]
+  }
+}

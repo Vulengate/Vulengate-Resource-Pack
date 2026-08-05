@@ -1,0 +1,99 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "big_eyes",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "halloween2025_set/pumpkin_head",
+		"particle": "halloween2025_set/pumpkin_head"
+	},
+	"elements": [
+		{
+			"from": [3, 1, 3],
+			"to": [13, 9, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -13, 0]},
+			"faces": {
+				"north": {"uv": [2.5, 2.5, 5, 4.5], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 2.5, 4.5], "texture": "#0"},
+				"south": {"uv": [7.5, 2.5, 10, 4.5], "texture": "#0"},
+				"west": {"uv": [5, 2.5, 7.5, 4.5], "texture": "#0"},
+				"up": {"uv": [5, 2.5, 2.5, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 9, 4],
+			"to": [12, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -13, 0]},
+			"faces": {
+				"north": {"uv": [2, 6.5, 4, 7], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 2, 7], "texture": "#0"},
+				"south": {"uv": [6, 6.5, 8, 7], "texture": "#0"},
+				"west": {"uv": [4, 6.5, 6, 7], "texture": "#0"},
+				"up": {"uv": [4, 6.5, 2, 4.5], "texture": "#0"},
+				"down": {"uv": [6, 4.5, 4, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 10, 7],
+			"to": [8.5, 13, 9],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7, 12, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 1, 1.25], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 1.25], "texture": "#0"},
+				"south": {"uv": [1.5, 0.5, 2, 1.25], "texture": "#0"},
+				"west": {"uv": [1, 0.5, 1.5, 1.25], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [1.5, 0, 1, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 4],
+			"to": [12, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -13, 0]},
+			"faces": {
+				"north": {"uv": [8, 7, 10, 7.25], "texture": "#0"},
+				"east": {"uv": [6, 7, 8, 7.25], "texture": "#0"},
+				"south": {"uv": [12, 7, 14, 7.25], "texture": "#0"},
+				"west": {"uv": [10, 7, 12, 7.25], "texture": "#0"},
+				"up": {"uv": [10, 7, 8, 5], "texture": "#0"},
+				"down": {"uv": [12, 5, 10, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"translation": [3.5, 0, 1]
+		},
+		"firstperson_lefthand": {
+			"translation": [2.25, 0, 0]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [15, -158, 0],
+			"translation": [0, 1.5, 0]
+		},
+		"head": {
+			"translation": [0, 4.75, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, 1.75, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

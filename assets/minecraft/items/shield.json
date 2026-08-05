@@ -1,0 +1,492 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_false": {
+                "type": "minecraft:special",
+                "base": "minecraft:item/shield",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            },
+            "on_true": {
+                "type": "minecraft:special",
+                "base": "minecraft:item/shield_blocking",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            }
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "warden_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "warden_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "halloween_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "halloween_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "wither_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "wither_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "enderdragon_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "enderdragon_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "planetary_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "planetary_set/shield"
+                    }
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "guardian_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "guardian_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "guardianel_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "guardianel_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "frog_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "frog_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "turtle_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "turtle_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "scarecrow_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "scarecrow_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "vampire_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "vampire_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "library_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "library_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "celebration_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "celebration_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "sweet_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "sweet_set/shield_blocking"
+                    }
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "toy_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "toy_set/shield_blocking"
+                    }
+                }
+            },
+			{
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "honeycomb_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "honeycomb_set/shield_blocking"
+                    }
+                }
+            },
+			{
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "meadow_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "meadow_set/shield_blocking"
+                    }
+                }
+            },
+			{
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "beach_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "beach_set/shield_block"
+                    }
+                }
+            },
+			{
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "pharaoh_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "pharaoh_set/shield_block"
+                    }
+                }
+            },
+			{
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "software_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "software_set/shield_block"
+                    }
+                }
+            },
+			{
+                "threshold": 50,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "winteranimal_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "winteranimal_set/shield"
+                    }
+                }
+            },
+			{
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "krampus_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "krampus_set/shield"
+                    }
+                }
+            },
+			{
+                "threshold": 52,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "2026_set/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "2026_set/shield"
+                    }
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                10,
+                6,
+                -4
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                10,
+                6,
+                12
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                180,
+                5
+            ],
+            "translation": [
+                -10,
+                2,
+                -10
+            ],
+            "scale": [
+                1.25,
+                1.25,
+                1.25
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                180,
+                5
+            ],
+            "translation": [
+                10,
+                0,
+                -10
+            ],
+            "scale": [
+                1.25,
+                1.25,
+                1.25
+            ]
+        },
+        "gui": {
+            "rotation": [
+                15,
+                -25,
+                -5
+            ],
+            "translation": [
+                2,
+                3,
+                0
+            ],
+            "scale": [
+                0.65,
+                0.65,
+                0.65
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                -2,
+                4,
+                -5
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        "ground": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                4,
+                4,
+                2
+            ],
+            "scale": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        }
+    }
+}

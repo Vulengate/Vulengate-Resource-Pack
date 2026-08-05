@@ -1,0 +1,39 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_boots",
+		"layer1": "item/leather_boots_overlay"
+	},
+	
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "warden_set/boots"},
+		{ "predicate": {"custom_model_data": 3}, "model": "wither_set/boots"},
+		{ "predicate": {"custom_model_data": 4}, "model": "enderdragon_set/boots"},
+		{ "predicate": {"custom_model_data": 5}, "model": "art_set/boots"},
+		{ "predicate": {"custom_model_data": 6}, "model": "arctic_set/boots"},
+		{ "predicate": {"custom_model_data": 9}, "model": "arcade_set/boots"},
+		{ "predicate": {"custom_model_data": 10}, "model": "2024_set/boots"},
+		{ "predicate": {"custom_model_data": 11}, "model": "planetary_set/boots"},
+		{ "predicate": {"custom_model_data": 12}, "model": "guardian_set/boots"},
+		{ "predicate": {"custom_model_data": 13}, "model": "guardianel_set/boots"},
+		{ "predicate": {"custom_model_data": 14}, "model": "aviary_set/boots"},
+		{ "predicate": {"custom_model_data": 15}, "model": "cave_set/boots"},
+		{ "predicate": {"custom_model_data": 16}, "model": "frog_set/boots"},
+		{ "predicate": {"custom_model_data": 17}, "model": "turtle_set/boots"},
+		{ "predicate": {"custom_model_data": 18}, "model": "hero_set/boots"},
+		{ "predicate": {"custom_model_data": 19}, "model": "camping_set/boots"},
+		{ "predicate": {"custom_model_data": 20}, "model": "weather_set/boots"},
+		{ "predicate": {"custom_model_data": 21}, "model": "desert_set/boots"},
+		{ "predicate": {"custom_model_data": 22}, "model": "scarecrow_set/boots"},
+		{ "predicate": {"custom_model_data": 23}, "model": "vampire_set/boots"},
+		{ "predicate": {"custom_model_data": 24}, "model": "coven_set/boots"},
+		{ "predicate": {"custom_model_data": 25}, "model": "library_set/boots"},
+		{ "predicate": {"custom_model_data": 26}, "model": "celebration_set/boots"},
+		{ "predicate": {"custom_model_data": 27}, "model": "sweet_set/boots"},
+		{ "predicate": {"custom_model_data": 28}, "model": "toy_set/boots"},
+		{ "predicate": {"custom_model_data": 29}, "model": "archaeology_set/boots"},
+		{ "predicate": {"custom_model_data": 30}, "model": "2025_set/boots"},
+		{ "predicate": {"custom_model_data": 31}, "model": "wyrmsteel_set/boots"},
+		{ "predicate": {"custom_model_data": 32}, "model": "pet_set/boots"}
+	]
+}

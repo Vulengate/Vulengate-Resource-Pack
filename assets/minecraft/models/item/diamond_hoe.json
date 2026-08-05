@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_hoe"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "warden_set/hoe" },
+    { "predicate": { "custom_model_data": 2 }, "model": "halloween_set/scythe" },
+    { "predicate": { "custom_model_data": 3 }, "model": "wither_set/hoe" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "2024_set/hoe" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "guardian_set/hoe" },
+	{ "predicate": { "custom_model_data": 13 }, "model": "guardianel_set/hoe" },
+	{ "predicate": { "custom_model_data": 16 }, "model": "frog_set/hoe" },
+	{ "predicate": { "custom_model_data": 17 }, "model": "turtle_set/hoe" },
+	{ "predicate": { "custom_model_data": 22 }, "model": "scarecrow_set/hoe" },
+	{ "predicate": { "custom_model_data": 23 }, "model": "vampire_set/hoe" },
+	{ "predicate": { "custom_model_data": 24 }, "model": "coven_set/hoe" },
+	{ "predicate": { "custom_model_data": 27 }, "model": "sweet_set/hoe" },
+	{ "predicate": { "custom_model_data": 28 }, "model": "toy_set/hoe" },
+	{ "predicate": { "custom_model_data": 32 }, "model": "pet_set/hoe" }
+  ]
+}

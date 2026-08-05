@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/magma_cream"
+        },
+        "entries": [
+            {
+                "threshold": 1032,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/join_leave"
+                }
+            }
+        ]
+    }
+}

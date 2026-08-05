@@ -1,0 +1,117 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/brick"
+        },
+        "entries": [
+            {
+                "threshold": 50000,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/closed_present_1"
+                }
+            },
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/open_present_1"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/open_present_2"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/closed_present_2"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/present_ready"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/gift_yellow_moving_animation"
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/gift_purple_moving_animation"
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/gift_green_moving_animation"
+                }
+            },
+            {
+                "threshold": 50008,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/rank_gift"
+                }
+            },
+            {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/rank_2_gift"
+                }
+            },
+            {
+                "threshold": 50010,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/snowfall2"
+                }
+            },
+            {
+                "threshold": 50011,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/snowfall3"
+                }
+            },
+            {
+                "threshold": 50012,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/vines_lights"
+                }
+            },
+            {
+                "threshold": 50013,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/vines_lights2"
+                }
+            },
+            {
+                "threshold": 50014,
+                "model": {
+                    "type": "model",
+                    "model": "advent_calendar/open_present_green"
+                }
+            }
+        ]
+    }
+}

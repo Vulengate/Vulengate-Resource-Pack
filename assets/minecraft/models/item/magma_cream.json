@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/magma_cream"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1032 }, "model": "vouchers/join_leave" }
+  ]
+}

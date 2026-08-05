@@ -1,0 +1,686 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "custom/invisibleitem"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "menu/menuhelp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "menu/menurules"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "menu/menustore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "menu/menuranks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "menu/menujobs"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "menu/menuah"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "menu/menurtp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "menu/menuwarps"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1019
+      },
+      "model": "menu/menushop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "menu/menuvouchers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "menu/menucosmetics"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "menu/menuclose"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1023
+      },
+      "model": "vouchers/jobs_income_boost"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1024
+      },
+      "model": "vouchers/jobs_exp_boost"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1025
+      },
+      "model": "vouchers/mcmmo_exp_boost"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1026
+      },
+      "model": "vouchers/mega_boost"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1027
+      },
+      "model": "vouchers/jobs_income"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1028
+      },
+      "model": "vouchers/jobs_exp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1029
+      },
+      "model": "vouchers/claim_blocks_one"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1030
+      },
+      "model": "vouchers/claim_blocks_two"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1031
+      },
+      "model": "vouchers/fly"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1032
+      },
+      "model": "vouchers/join_leave"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1033
+      },
+      "model": "vouchers/keep_exp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1034
+      },
+      "model": "vouchers/mcmmo_cooldown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1035
+      },
+      "model": "vouchers/morph"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1036
+      },
+      "model": "vouchers/name_tag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1037
+      },
+      "model": "vouchers/no_phantoms"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1038
+      },
+      "model": "vouchers/no_rtp_delay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1039
+      },
+      "model": "vouchers/no_tp_delay"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1040
+      },
+      "model": "vouchers/particle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1041
+      },
+      "model": "vouchers/vote_points"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1042
+      },
+      "model": "vouchers/wings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1043
+      },
+      "model": "vouchers/bow_trail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1044
+      },
+      "model": "vouchers/death_message"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1045
+      },
+      "model": "vouchers/mcmmo_exp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1046
+      },
+      "model": "vouchers/morph_temp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1047
+      },
+      "model": "menu/menusettings"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1048
+      },
+      "model": "menu/menuon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1049
+      },
+      "model": "menu/menuoff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1050
+      },
+      "model": "menu/menuwardrobe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1133
+      },
+      "model": "fishing_pack/pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1180
+      },
+      "model": "fishing_pack/worm_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1184
+      },
+      "model": "fishing_pack/common_fishing_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1185
+      },
+      "model": "fishing_pack/rare_fishing_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1186
+      },
+      "model": "fishing_pack/epic_fishing_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1187
+      },
+      "model": "fishing_pack/legendary_fishing_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2001
+      },
+      "model": "hmc/dino_pack/para_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2002
+      },
+      "model": "hmc/dino_pack/para_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2003
+      },
+      "model": "hmc/dino_pack/tric_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2004
+      },
+      "model": "hmc/dino_pack/tric_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2005
+      },
+      "model": "hmc/dino_pack/tyra_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2006
+      },
+      "model": "hmc/dino_pack/tyra_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2007
+      },
+      "model": "hmc/dino_pack/anky_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2008
+      },
+      "model": "hmc/dino_pack/anky_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2009
+      },
+      "model": "hmc/dino_pack/brac_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2010
+      },
+      "model": "hmc/dino_pack/brac_tail"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2011
+      },
+      "model": "hmc/valen_pack/heart_eyes"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2012
+      },
+      "model": "hmc/valen_pack/teddy_bear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2013
+      },
+      "model": "hmc/valen_pack/flower_bouquet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2014
+      },
+      "model": "hmc/valen_pack/heart_arrow"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2015
+      },
+      "model": "scarecrow_set/doctor_mask"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2016
+      },
+      "model": "scarecrow_set/lantern"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2017
+      },
+      "model": "coven_set/witch_hat"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2018
+      },
+      "model": "2025_set/cake_hat"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 2019
+      },
+      "model": "2025_set/strawberry_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3001
+      },
+      "model": "tokens/sword_token"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3002
+      },
+      "model": "tokens/remover_token"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3003
+      },
+      "model": "tokens/extractor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3004
+      },
+      "model": "tokens/bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3005
+      },
+      "model": "tokens/crossbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3006
+      },
+      "model": "tokens/axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3007
+      },
+      "model": "tokens/hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3008
+      },
+      "model": "tokens/pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3009
+      },
+      "model": "tokens/rod"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3010
+      },
+      "model": "tokens/shield"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3011
+      },
+      "model": "tokens/shovel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3012
+      },
+      "model": "tokens/tools"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4001
+      },
+      "model": "boss_sets/knight/trophy"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4002
+      },
+      "model": "boss_sets/warden/trophy"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4003
+      },
+      "model": "boss_sets/skeleton/trophy"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4004
+      },
+      "model": "vulengate_fish/fishtrophy"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4005
+      },
+      "model": "boss_sets/minotaur/trophy"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 4006
+      },
+      "model": "boss_sets/defender/trophy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5001
+      },
+      "model": "menu/menubossnext"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5002
+      },
+      "model": "menu/menubossprev"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5003
+      },
+      "model": "menu/menubossfight"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5004
+      },
+      "model": "menu/menubossinfo"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5005
+      },
+      "model": "menu/menubossdrop"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5006
+      },
+      "model": "menu/voteiconyes"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5007
+      },
+      "model": "menu/voteiconno"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5008
+      },
+      "model": "menu/nextpageicon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5009
+      },
+      "model": "menu/lastpageicon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5010
+      },
+      "model": "menu/closemenuicon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5011
+      },
+      "model": "menu/notifyicon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5012
+      },
+      "model": "menu/market_star"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 5013
+      },
+      "model": "menu/infoicon"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 9999
+      },
+      "model": "menu/crateart"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20000
+      },
+      "model": "menu/jobs_miner"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20001
+      },
+      "model": "menu/jobs_woodcutter"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20002
+      },
+      "model": "menu/jobs_hunter"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20003
+      },
+      "model": "menu/jobs_angler"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20004
+      },
+      "model": "menu/jobs_farmer"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20005
+      },
+      "model": "menu/jobs_excavator"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20006
+      },
+      "model": "menu/jobs_enchanter"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20007
+      },
+      "model": "menu/jobs_baker"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20008
+      },
+      "model": "menu/jobs_maxed"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20009
+      },
+      "model": "menu/jobs_supermaxed"
+    },
+	{
+      "predicate": {
+        "custom_model_data": 20010
+      },
+      "model": "menu/jobs_check"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49998
+      },
+      "model": "customfishing/util/splash_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49999
+      },
+      "model": "customfishing/util/splash_lava"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50000
+      },
+      "model": "customfishing/util/fishfinder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60000
+      },
+      "model": "custom/prideflag"
+    }
+  ]
+}

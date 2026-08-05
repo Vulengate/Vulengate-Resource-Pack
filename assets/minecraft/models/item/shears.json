@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/shears"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 6 }, "model": "arctic_set/shears" },
+	{ "predicate": { "custom_model_data": 20 }, "model": "weather_set/shears" },
+    {"predicate":{"custom_model_data":50000},"model":"vulengate_fish/lavaproof_hook"}
+  ]
+}

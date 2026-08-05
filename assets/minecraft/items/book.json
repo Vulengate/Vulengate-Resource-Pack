@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/book"
+        },
+        "entries": [
+            {
+                "threshold": 1035,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/morph"
+                }
+            },
+            {
+                "threshold": 1036,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/name_tag"
+                }
+            },
+            {
+                "threshold": 1040,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/particle"
+                }
+            },
+            {
+                "threshold": 1043,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/bow_trail"
+                }
+            },
+            {
+                "threshold": 1046,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/morph_temp"
+                }
+            }
+        ]
+    }
+}

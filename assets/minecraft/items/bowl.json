@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/bowl"
+        },
+        "entries": [
+            {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:toro/warden_heart"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "boss_sets/knight/summon"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "boss_sets/skeleton/summon"
+                }
+            },
+			{
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "boss_sets/minotaur/summon"
+                }
+            }
+        ]
+    }
+}

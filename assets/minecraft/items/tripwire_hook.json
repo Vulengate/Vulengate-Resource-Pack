@@ -1,0 +1,285 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/tripwire_hook"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "custom/wild_key"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "custom/vote_key"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "custom/gladiator_key"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "custom/voidkey"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "custom/artkey"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "arctic_set/key"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "custom/events_key"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "custom/rainbow_key"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "arcade_set/key"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "2024_set/key"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "planetary_set/key"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "aviary_set/key"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "cave_set/key"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "hero_set/key"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "camping_set/key"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "weather_set/key"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "desert_set/key"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "coven_set/key"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "library_set/key"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "celebration_set/key"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "model",
+          "model": "archaeology_set/key"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "2025_set/key"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "pet_set/key"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "monarch_set/key"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/key"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "fisherman_set/key"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "knight_set/key"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "mythology_set/key"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "software_set/key"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "cryptid_set/key"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "gothic_set/key"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "vacation_set/key"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "dragon_set/key"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "2026_set/key"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "bakery_set/key"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "gardening_set/key"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "pond_set/key"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "breakfast_set/key"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "extraterrestrial_set/key"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "layers": {
+    "horse_body": [
+      { "texture": "minecraft:iron" }
+    ],
+    "humanoid": [
+      { "texture": "minecraft:vacation" }
+    ],
+    "humanoid_leggings": [
+      { "texture": "minecraft:vacation" }
+    ]
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:fishing_rod/cast",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/fishing_rod"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/fishing_rod_cast"
+      }
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "warden_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "warden_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "halloween_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "halloween_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "wither_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "wither_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "enderdragon_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "enderdragon_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "arcade_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "arcade_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "guardian_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "guardian_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "guardianel_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "guardianel_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "cave_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "cave_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "frog_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "frog_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "turtle_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "turtle_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "desert_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "desert_set/fishing_rod"
+          }
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "vampire_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "vampire_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "sweet_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "sweet_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "toy_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "toy_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "honeycomb_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "honeycomb_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "meadow_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "meadow_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "fisherman_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "fisherman_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "beach_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "beach_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "pharaoh_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "pharaoh_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "gothic_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "gothic_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "winteranimal_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "winteranimal_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:fishing_rod/cast",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "krampus_set/fishing_rod"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "krampus_set/fishing_rod_cast"
+          }
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "condition",
+          "property": "fishing_rod/cast",
+          "on_true": {
+            "type": "model",
+            "model": "pond_set/fishing_rod_cast"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "pond_set/fishing_rod"
+          }
+        }
+      }
+    ]
+  }
+}

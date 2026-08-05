@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/ink_sac"
+    },
+    "entries": [
+      { "threshold": 1, "model": { "type": "model", "model": "littleroom_bugpack/bugnet" }},
+      { "threshold": 2, "model": { "type": "model", "model": "littleroom_bugpack/ant" }},
+      { "threshold": 3, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_blue" }},
+      { "threshold": 4, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_indigo" }},
+      { "threshold": 5, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_red" }},
+      { "threshold": 6, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_violet" }},
+      { "threshold": 7, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_white" }},
+      { "threshold": 8, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_yellow" }},
+      { "threshold": 9, "model": { "type": "model", "model": "littleroom_bugpack/praying_mantis" }},
+      { "threshold": 10, "model": { "type": "model", "model": "littleroom_bugpack/firefly" }},
+      { "threshold": 11, "model": { "type": "model", "model": "littleroom_bugpack/dung_beetle" }},
+      { "threshold": 12, "model": { "type": "model", "model": "littleroom_bugpack/snail" }},
+      { "threshold": 13, "model": { "type": "model", "model": "littleroom_bugpack/ladybug" }},
+      { "threshold": 14, "model": { "type": "model", "model": "littleroom_bugpack/moth_atlas" }},
+      { "threshold": 15, "model": { "type": "model", "model": "littleroom_bugpack/tarantula" }},
+      { "threshold": 16, "model": { "type": "model", "model": "littleroom_bugpack/worm" }},
+      { "threshold": 17, "model": { "type": "model", "model": "littleroom_bugpack/pillbug" }},
+      { "threshold": 18, "model": { "type": "model", "model": "littleroom_bugpack/centipede" }},
+	  { "threshold": 19, "model": { "type": "model", "model": "littleroom_bugpack/herculesbeetle" }},
+	  { "threshold": 20, "model": { "type": "model", "model": "littleroom_bugpack/prismatic_lacewing" }},
+	  { "threshold": 21, "model": { "type": "model", "model": "littleroom_bugpack/butterfly_monarch" }}
+    ]
+  }
+}

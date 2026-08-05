@@ -1,0 +1,38 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/fishing_rod"
+    },
+    "overrides": [
+        { "predicate": { "cast": 1 }, "model": "item/fishing_rod_cast" },
+		
+		{ "predicate": { "custom_model_data": 1 }, "model": "warden_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 1, "cast": 1 }, "model": "warden_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "halloween_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 2, "cast": 1 }, "model": "halloween_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "wither_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 3, "cast": 1 }, "model": "wither_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "enderdragon_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 4, "cast": 1 }, "model": "enderdragon_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "arcade_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 9, "cast": 1 }, "model": "arcade_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "guardian_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 12, "cast": 1 }, "model": "guardian_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "guardianel_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 13, "cast": 1 }, "model": "guardianel_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "cave_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 15, "cast": 1 }, "model": "cave_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "frog_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 16, "cast": 1 }, "model": "frog_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "turtle_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 17, "cast": 1 }, "model": "turtle_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "desert_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 21, "cast": 1 }, "model": "desert_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "vampire_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 23, "cast": 1 }, "model": "vampire_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 27 }, "model": "sweet_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 27, "cast": 1 }, "model": "sweet_set/fishing_rod_cast" },
+		{ "predicate": { "custom_model_data": 28 }, "model": "toy_set/fishing_rod" },
+		{ "predicate": { "custom_model_data": 28, "cast": 1 }, "model": "toy_set/fishing_rod_cast" }
+    ]
+}

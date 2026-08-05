@@ -1,0 +1,106 @@
+{"parent": "item/generated", "textures": {"layer0": "item/potion_overlay", "layer1": "item/potion"},
+
+"overrides": 
+
+[
+{
+"predicate": {"custom_model_data": 400001}, 
+"model": "fallhats/acorn_hat"
+},
+{
+"predicate": {"custom_model_data": 400002}, 
+"model": "fallhats/fedora_hat"
+},
+{
+"predicate": {"custom_model_data": 400003}, 
+"model": "fallhats/fox_hat"
+},
+{
+"predicate": {"custom_model_data": 400004}, 
+"model": "fallhats/mushroom_hat"
+},
+{
+"predicate": {"custom_model_data": 400005}, 
+"model": "fallhats/owl_hat"
+},
+{
+"predicate": {"custom_model_data": 400006}, 
+"model": "fallhats/patchwork_hat"
+},
+{
+"predicate": {"custom_model_data": 400007}, 
+"model": "fallhats/pumpkin_hat"
+},
+{
+"predicate": {"custom_model_data": 400008}, 
+"model": "fallhats/scarecrow_hat"
+},
+{
+"predicate": {"custom_model_data": 400009}, 
+"model": "fallhats/squirrel_hat"
+},
+{
+"predicate": {"custom_model_data": 400010}, 
+"model": "fallhats/turkey_hat"
+},
+{
+"predicate": {"custom_model_data": 400011}, 
+"model": "winterhats/beanie_scarf_hat"
+},
+{
+"predicate": {"custom_model_data": 400012}, 
+"model": "winterhats/ice_shard_crown_hat"
+},
+{
+"predicate": {"custom_model_data": 400013}, 
+"model": "winterhats/penguin_hat"
+},
+{
+"predicate": {"custom_model_data": 400014}, 
+"model": "winterhats/polar_bear_hat"
+},
+{
+"predicate": {"custom_model_data": 400015}, 
+"model": "winterhats/raccoon_hat"
+},
+{
+"predicate": {"custom_model_data": 400016}, 
+"model": "winterhats/red_beanie_hat"
+},
+{
+"predicate": {"custom_model_data": 400017}, 
+"model": "winterhats/tundra_explorer_hat"
+},
+{
+"predicate": {"custom_model_data": 400018}, 
+"model": "winterhats/winter_beanie_hat"
+},
+{
+"predicate": {"custom_model_data": 400019}, 
+"model": "winterhats/winter_earmuffs_hat"
+},
+{
+"predicate": {"custom_model_data": 400020}, 
+"model": "winterhats/yeti_hat"
+},
+{
+"predicate": {"custom_model_data": 400021}, 
+"model": "winterhats/blue_beanie_hat"
+},
+{
+"predicate": {"custom_model_data": 400022}, 
+"model": "winterhats/green_beanie_hat"
+},
+{
+"predicate": {"custom_model_data": 400023},
+"model": "winterhats/yellow_beanie_hat"
+},
+{
+"predicate": {"custom_model_data": 400024},
+"model": "hmc/vulengate_hats/party_hat"
+},
+{
+"predicate": {"custom_model_data": 400025},
+"model": "springhats2025/beehive_hat"
+}
+]}

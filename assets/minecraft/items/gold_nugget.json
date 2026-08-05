@@ -1,0 +1,96 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/gold_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 7000,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/air"
+                }
+            },
+            {
+                "threshold": 7001,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/lock"
+                }
+            },
+            {
+                "threshold": 7002,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/unlock"
+                }
+            },
+            {
+                "threshold": 7003,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/reward_unclaimed"
+                }
+            },
+            {
+                "threshold": 7004,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/reward_claimed"
+                }
+            },
+            {
+                "threshold": 7005,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/questbook"
+                }
+            },
+            {
+                "threshold": 7006,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/questbook_gray"
+                }
+            },
+            {
+                "threshold": 7007,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/reward_locked_gray"
+                }
+            },
+            {
+                "threshold": 7008,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/reward_locked_green"
+                }
+            },
+			{
+                "threshold": 7009,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/achievementicon"
+                }
+            },
+			{
+                "threshold": 7010,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/achievementbook"
+                }
+            },
+			{
+                "threshold": 7011,
+                "model": {
+                    "type": "model",
+                    "model": "jeqo/battlepass/achievementbook_locked"
+                }
+            }
+        ]
+    }
+}

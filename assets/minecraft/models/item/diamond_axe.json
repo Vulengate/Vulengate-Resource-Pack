@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "warden_set/axe" },
+    { "predicate": { "custom_model_data": 2 }, "model": "halloween_set/machete_clean" },
+    { "predicate": { "custom_model_data": 3 }, "model": "wither_set/axe" },
+    { "predicate": { "custom_model_data": 5 }, "model": "art_set/axe" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "arcade_set/axe" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "2024_set/axe" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "planetary_set/axe" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "guardian_set/axe" },
+	{ "predicate": { "custom_model_data": 13 }, "model": "guardianel_set/axe" },
+	{ "predicate": { "custom_model_data": 15 }, "model": "cave_set/axe" },
+	{ "predicate": { "custom_model_data": 16 }, "model": "frog_set/axe" },
+	{ "predicate": { "custom_model_data": 17 }, "model": "turtle_set/axe" },
+	{ "predicate": { "custom_model_data": 19 }, "model": "camping_set/axe" },
+	{ "predicate": { "custom_model_data": 21 }, "model": "desert_set/axe" },
+	{ "predicate": { "custom_model_data": 22 }, "model": "scarecrow_set/axe" },
+	{ "predicate": { "custom_model_data": 23 }, "model": "vampire_set/axe" },
+	{ "predicate": { "custom_model_data": 25 }, "model": "library_set/axe" },
+	{ "predicate": { "custom_model_data": 27 }, "model": "sweet_set/axe" },
+	{ "predicate": { "custom_model_data": 28 }, "model": "toy_set/axe" },
+	{ "predicate": { "custom_model_data": 29 }, "model": "archaeology_set/axe" },
+	{ "predicate": { "custom_model_data": 4002 }, "model": "boss_sets/warden/axe" },
+	{ "predicate": { "custom_model_data": 4005 }, "model": "boss_sets/minotaur/axe" }
+	
+  ]
+}

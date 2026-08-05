@@ -1,0 +1,159 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_helmet"
+    },
+    "entries": [
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/helmet"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "model",
+          "model": "archer_set/helmet"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "fisherman_set/helmet"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "model",
+          "model": "paladin_set/helmet"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "knight_set/helmet"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "beach_set/helmet"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "pharaoh_set/helmet"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "mythology_set/helmet"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "software_set/helmet"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "cryptid_set/helmet"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "gothic_set/helmet"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "vacation_set/helmet"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "dragon_set/helmet"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "winteranimal_set/helmet"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "krampus_set/helmet"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "2026_set/helmet"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "model",
+          "model": "bakery_set/helmet"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "gardening_set/helmet"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "pond_set/helmet"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "breakfast_set/helmet"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "extraterrestrial_set/helmet"
+        }
+      }
+    ]
+  }
+}

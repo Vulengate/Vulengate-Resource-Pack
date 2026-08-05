@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_shovel"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "warden_set/shovel" },
+    { "predicate": { "custom_model_data": 2 }, "model": "halloween_set/shovel" },
+    { "predicate": { "custom_model_data": 3 }, "model": "wither_set/shovel" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "enderdragon_set/shovel" },
+    { "predicate": { "custom_model_data": 6 }, "model": "arctic_set/shovel" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "2024_set/shovel" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "guardian_set/shovel" },
+	{ "predicate": { "custom_model_data": 13 }, "model": "guardianel_set/shovel" },
+	{ "predicate": { "custom_model_data": 14 }, "model": "aviary_set/shovel" },
+	{ "predicate": { "custom_model_data": 16 }, "model": "frog_set/shovel" },
+	{ "predicate": { "custom_model_data": 17 }, "model": "turtle_set/shovel" },
+	{ "predicate": { "custom_model_data": 18 }, "model": "hero_set/shovel" },
+	{ "predicate": { "custom_model_data": 20 }, "model": "weather_set/shovel" },
+	{ "predicate": { "custom_model_data": 22 }, "model": "scarecrow_set/shovel" },
+	{ "predicate": { "custom_model_data": 23 }, "model": "vampire_set/shovel" },
+	{ "predicate": { "custom_model_data": 24 }, "model": "coven_set/shovel" },
+	{ "predicate": { "custom_model_data": 26 }, "model": "celebration_set/shovel" },
+	{ "predicate": { "custom_model_data": 27 }, "model": "sweet_set/shovel" },
+	{ "predicate": { "custom_model_data": 28 }, "model": "toy_set/shovel" },
+	{ "predicate": { "custom_model_data": 30 }, "model": "2025_set/shovel" }
+  ]
+}

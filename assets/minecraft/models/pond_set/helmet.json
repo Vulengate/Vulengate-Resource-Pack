@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "pond_set/pond_helmet"
+	},
+	"gui_light": "front",
+	"display": {}
+}

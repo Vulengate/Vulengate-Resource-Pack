@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "warden_set/pickaxe" },
+    { "predicate": { "custom_model_data": 2 }, "model": "halloween_set/pickaxe" },
+    { "predicate": { "custom_model_data": 3 }, "model": "wither_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "enderdragon_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "art_set/pickaxe" },
+    { "predicate": { "custom_model_data": 6 }, "model": "arctic_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 9 }, "model": "arcade_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 10 }, "model": "2024_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 11 }, "model": "planetary_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 12 }, "model": "guardian_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 13 }, "model": "guardianel_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 14 }, "model": "aviary_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 15 }, "model": "cave_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 16 }, "model": "frog_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 17 }, "model": "turtle_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 18 }, "model": "hero_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 19 }, "model": "camping_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 20 }, "model": "weather_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 21 }, "model": "desert_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 22 }, "model": "scarecrow_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 23 }, "model": "vampire_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 24 }, "model": "coven_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 25 }, "model": "library_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 26 }, "model": "celebration_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 27 }, "model": "sweet_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 28 }, "model": "toy_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 29 }, "model": "archaeology_set/pickaxe" },
+	{ "predicate": { "custom_model_data": 30 }, "model": "2025_set/pickaxe" }
+  ]
+}

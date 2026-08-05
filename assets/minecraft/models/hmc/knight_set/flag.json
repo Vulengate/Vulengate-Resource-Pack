@@ -1,0 +1,86 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "hmc/knight_set/flag",
+		"1": "hmc/knight_set/flag1",
+		"particle": "hmc/knight_set/flag"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 24, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 7]},
+			"faces": {
+				"north": {"uv": [7.5, 0, 8, 6], "texture": "#0"},
+				"east": {"uv": [8.25, 0, 8.75, 6], "texture": "#0"},
+				"south": {"uv": [9, 0, 9.5, 6], "texture": "#0"},
+				"west": {"uv": [9.75, 0, 10.25, 6], "texture": "#0"},
+				"up": {"uv": [5.5, 1.25, 5, 0.75], "texture": "#0"},
+				"down": {"uv": [5.5, 1.5, 5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, 16, 8],
+			"to": [7, 24, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 16, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#1"},
+				"south": {"uv": [10, 0, 0, 8], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#1"},
+				"up": {"uv": [10, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [10, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 23, 6.5],
+			"to": [9.5, 25, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 22, 6.5]},
+			"faces": {
+				"north": {"uv": [2.75, 4.75, 3.5, 5.25], "texture": "#0"},
+				"east": {"uv": [3.75, 4.75, 4.5, 5.25], "texture": "#0"},
+				"south": {"uv": [4.75, 4.75, 5.5, 5.25], "texture": "#0"},
+				"west": {"uv": [5, 0, 5.75, 0.5], "texture": "#0"},
+				"up": {"uv": [1.5, 5.25, 0.75, 4.5], "texture": "#0"},
+				"down": {"uv": [2.5, 4.5, 1.75, 5.25], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50.28, -48.11, -1.86],
+			"translation": [0, -0.75, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50.28, -48.11, -1.86],
+			"translation": [0, -0.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -80, 0],
+			"translation": [2, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 100, 0],
+			"translation": [2, 0, 0]
+		},
+		"gui": {
+			"rotation": [30, 0, -45],
+			"translation": [-2.75, -3.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"fixed": {
+			"translation": [0, -2.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7, 0, 7],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

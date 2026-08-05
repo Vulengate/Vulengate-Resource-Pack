@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/mace"
+        },
+        "entries": [
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "scarecrow_set/mace"
+                }
+            },
+			{
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "archaeology_set/mace"
+                }
+            },
+			{
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "bakery_set/mace"
+                }
+            },
+			{
+                "threshold": 4005,
+                "model": {
+                    "type": "model",
+                    "model": "boss_sets/defender/mace"
+                }
+            }
+        ]
+    }
+}

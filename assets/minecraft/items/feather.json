@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/feather"
+        },
+        "entries": [
+            {
+                "threshold": 1042,
+                "model": {
+                    "type": "model",
+                    "model": "vouchers/wings"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1053 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/cod"
+        },
+        "entries": [
+            {
+                "threshold": 1134,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/starfish"
+                }
+            },
+            {
+                "threshold": 1137,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/bubblefish"
+                }
+            },
+            {
+                "threshold": 1138,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/trout"
+                }
+            },
+            {
+                "threshold": 1139,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/greenfish"
+                }
+            },
+            {
+                "threshold": 1141,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/bream"
+                }
+            },
+            {
+                "threshold": 1143,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/rosy_barb"
+                }
+            },
+            {
+                "threshold": 1145,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/gemfish"
+                }
+            },
+            {
+                "threshold": 1146,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/chromis"
+                }
+            },
+            {
+                "threshold": 1147,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/icefish"
+                }
+            },
+            {
+                "threshold": 1148,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/shrimp"
+                }
+            },
+            {
+                "threshold": 1149,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/blue_eel"
+                }
+            },
+            {
+                "threshold": 1151,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/anthias"
+                }
+            },
+            {
+                "threshold": 1152,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/green_barb"
+                }
+            },
+            {
+                "threshold": 1153,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/blue_grenadier"
+                }
+            },
+            {
+                "threshold": 1155,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/stingray"
+                }
+            },
+            {
+                "threshold": 1172,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/obsidianfish"
+                }
+            },
+            {
+                "threshold": 1173,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/magma_trout"
+                }
+            },
+            {
+                "threshold": 1174,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/molten_coralfish"
+                }
+            },
+            {
+                "threshold": 1175,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/blazorb_jellyfish"
+                }
+            },
+            {
+                "threshold": 1176,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/lava_anthias"
+                }
+            },
+            {
+                "threshold": 1177,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/fire_eel"
+                }
+            },
+            {
+                "threshold": 1178,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/warped_shrimp"
+                }
+            },
+            {
+                "threshold": 1179,
+                "model": {
+                    "type": "model",
+                    "model": "fishing_pack/crimson_bubblefish"
+                }
+            },
+            {
+                "threshold": 20000,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/anaconda"
+                }
+            },
+            {
+                "threshold": 20001,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/anaconda_golden_star"
+                }
+            },
+            {
+                "threshold": 20002,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/anaconda_silver_star"
+                }
+            },
+            {
+                "threshold": 20003,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/arctic_fish"
+                }
+            },
+            {
+                "threshold": 20004,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/arctic_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20005,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/arctic_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20006,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/azalea_fish"
+                }
+            },
+            {
+                "threshold": 20007,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/azalea_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20008,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/azalea_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20009,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/blossom_fish"
+                }
+            },
+            {
+                "threshold": 20010,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/blossom_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20011,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/blossom_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20012,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/clay_fish"
+                }
+            },
+            {
+                "threshold": 20013,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/clay_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20014,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/clay_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20015,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/coral_fish"
+                }
+            },
+            {
+                "threshold": 20016,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/coral_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20017,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/coral_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20018,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/flower_fish"
+                }
+            },
+            {
+                "threshold": 20019,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/flower_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20020,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/flower_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20021,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/frozen_sunfish"
+                }
+            },
+            {
+                "threshold": 20022,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/frozen_sunfish_golden_star"
+                }
+            },
+            {
+                "threshold": 20023,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/frozen_sunfish_silver_star"
+                }
+            },
+            {
+                "threshold": 20024,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/lion_fish"
+                }
+            },
+            {
+                "threshold": 20025,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/lion_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20026,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/lion_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20027,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/mud_fish"
+                }
+            },
+            {
+                "threshold": 20028,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/mud_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20029,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/mud_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20030,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/mystery_mackerel"
+                }
+            },
+            {
+                "threshold": 20031,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/mystery_mackerel_golden_star"
+                }
+            },
+            {
+                "threshold": 20032,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/mystery_mackerel_silver_star"
+                }
+            },
+            {
+                "threshold": 20033,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/panda_fish"
+                }
+            },
+            {
+                "threshold": 20034,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/panda_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20035,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/panda_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20036,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/rock_fish"
+                }
+            },
+            {
+                "threshold": 20037,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/rock_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20038,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/rock_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20039,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/sand_shark"
+                }
+            },
+            {
+                "threshold": 20040,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/sand_shark_golden_star"
+                }
+            },
+            {
+                "threshold": 20041,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/sand_shark_silver_star"
+                }
+            },
+            {
+                "threshold": 20042,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/sculk_fish"
+                }
+            },
+            {
+                "threshold": 20043,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/sculk_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20044,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/sculk_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20045,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/shroom_fish"
+                }
+            },
+            {
+                "threshold": 20046,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/shroom_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20047,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/shroom_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20048,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/slime_fish"
+                }
+            },
+            {
+                "threshold": 20049,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/slime_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20050,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/slime_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20051,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/spartan_fish"
+                }
+            },
+            {
+                "threshold": 20052,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/spartan_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20053,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/spartan_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20054,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/stale_fish"
+                }
+            },
+            {
+                "threshold": 20055,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/stale_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20056,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/stale_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20057,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/wild_fish"
+                }
+            },
+            {
+                "threshold": 20058,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/wild_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20059,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/wild_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20060,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/wolf_fish"
+                }
+            },
+            {
+                "threshold": 20061,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/wolf_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20062,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/wolf_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20063,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/elimarands_catfish"
+                }
+            },
+            {
+                "threshold": 20064,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/elimarands_catfish_golden_star"
+                }
+            },
+            {
+                "threshold": 20065,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/elimarands_catfish_silver_star"
+                }
+            },
+            {
+                "threshold": 20066,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/flexy_fish"
+                }
+            },
+            {
+                "threshold": 20067,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/flexy_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 20068,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/flexy_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 20069,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/seazis_starfish"
+                }
+            },
+            {
+                "threshold": 20070,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/seazis_starfish_golden_star"
+                }
+            },
+            {
+                "threshold": 20071,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/seazis_starfish_silver_star"
+                }
+            },
+            {
+                "threshold": 20072,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/henchmanatee"
+                }
+            },
+            {
+                "threshold": 50000,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/radioactive_fish"
+                }
+            },
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/tuna_fish"
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/tuna_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/tuna_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/pike_fish"
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/pike_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/pike_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/gold_fish"
+                }
+            },
+            {
+                "threshold": 50008,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/gold_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50009,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/gold_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50010,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/perch_fish"
+                }
+            },
+            {
+                "threshold": 50011,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/perch_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50012,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/perch_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50013,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/mullet_fish"
+                }
+            },
+            {
+                "threshold": 50014,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/mullet_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50015,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/mullet_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50016,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sardine_fish"
+                }
+            },
+            {
+                "threshold": 50017,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sardine_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50018,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sardine_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50019,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/carp_fish"
+                }
+            },
+            {
+                "threshold": 50020,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/carp_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50021,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/carp_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50022,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/cat_fish"
+                }
+            },
+            {
+                "threshold": 50023,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/cat_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50024,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/cat_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50025,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/octopus_fish"
+                }
+            },
+            {
+                "threshold": 50026,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/octopus_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50027,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/octopus_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50028,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sunfish_fish"
+                }
+            },
+            {
+                "threshold": 50029,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sunfish_fish_silver_star"
+                }
+            },
+            {
+                "threshold": 50030,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sunfish_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50031,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/red_spnapper_fish"
+                }
+            },
+            {
+                "threshold": 50032,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/red_spnapper_silver_star"
+                }
+            },
+            {
+                "threshold": 50033,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/red_spnapper_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50034,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/salmon_void_fish"
+                }
+            },
+            {
+                "threshold": 50035,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/salmon_void_silver_star"
+                }
+            },
+            {
+                "threshold": 50036,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/salmon_void_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50037,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/woodskip_fish"
+                }
+            },
+            {
+                "threshold": 50038,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/woodskip_silver_star"
+                }
+            },
+            {
+                "threshold": 50039,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/woodskip_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50040,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sturgeon_fish"
+                }
+            },
+            {
+                "threshold": 50041,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sturgeon_silver_star"
+                }
+            },
+            {
+                "threshold": 50042,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/sturgeon_fish_golden_star"
+                }
+            },
+            {
+                "threshold": 50043,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/blue_jellyfish"
+                }
+            },
+            {
+                "threshold": 50044,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/blue_jellyfish_silver_star"
+                }
+            },
+            {
+                "threshold": 50045,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/blue_jellyfish_golden_star"
+                }
+            },
+            {
+                "threshold": 50046,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/pink_jellyfish"
+                }
+            },
+            {
+                "threshold": 50047,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/pink_jellyfish_silver_star"
+                }
+            },
+            {
+                "threshold": 50048,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/pink_jellyfish_golden_star"
+                }
+            },
+            {
+                "threshold": 50100,
+                "model": {
+                    "type": "model",
+                    "model": "customfishing/fish/rainbow_fish"
+                }
+            }
+        ]
+    },
+    "display": {
+        "head": {
+            "rotation": [
+                0,
+                90,
+                -60
+            ],
+            "translation": [
+                -7,
+                -4,
+                -7
+            ],
+            "scale": [
+                0.8,
+                0.8,
+                0.8
+            ]
+        }
+    }
+}

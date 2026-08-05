@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "block/tripwire_hook"
+    },
+    "overrides": [
+	    {"predicate": {"custom_model_data":1}, "model": "custom/wild_key"},
+	    {"predicate": {"custom_model_data":2}, "model": "custom/vote_key"},
+	    {"predicate": {"custom_model_data":3}, "model": "custom/gladiator_key"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/voidkey"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/artkey"},
+        {"predicate": {"custom_model_data":6}, "model": "arctic_set/key"},
+		{"predicate": {"custom_model_data":7}, "model": "custom/events_key"},
+		{"predicate": {"custom_model_data":8}, "model": "custom/rainbow_key"},
+		{"predicate": {"custom_model_data":9}, "model": "arcade_set/key"},
+		{"predicate": {"custom_model_data":10}, "model": "2024_set/key"},
+		{"predicate": {"custom_model_data":11}, "model": "planetary_set/key"},
+		{"predicate": {"custom_model_data":14}, "model": "aviary_set/key"},
+		{"predicate": {"custom_model_data":15}, "model": "cave_set/key"},
+		{"predicate": {"custom_model_data":18}, "model": "hero_set/key"},
+		{"predicate": {"custom_model_data":19}, "model": "camping_set/key"},
+		{"predicate": {"custom_model_data":20}, "model": "weather_set/key"},
+		{"predicate": {"custom_model_data":21}, "model": "desert_set/key"},
+		{"predicate": {"custom_model_data":24}, "model": "coven_set/key"},
+		{"predicate": {"custom_model_data":25}, "model": "library_set/key"},
+		{"predicate": {"custom_model_data":26}, "model": "celebration_set/key"},
+		{"predicate": {"custom_model_data":29}, "model": "archaeology_set/key"},
+		{"predicate": {"custom_model_data":30}, "model": "2025_set/key"}
+        ]
+}

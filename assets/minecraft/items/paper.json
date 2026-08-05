@@ -1,0 +1,1594 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/paper"
+    },
+    "entries": [
+      {
+        "threshold": 1010,
+        "model": {
+          "type": "model",
+          "model": "custom/invisibleitem"
+        }
+      },
+      {
+        "threshold": 1011,
+        "model": {
+          "type": "model",
+          "model": "menu/menuhelp"
+        }
+      },
+      {
+        "threshold": 1012,
+        "model": {
+          "type": "model",
+          "model": "menu/menurules"
+        }
+      },
+      {
+        "threshold": 1013,
+        "model": {
+          "type": "model",
+          "model": "menu/menustore"
+        }
+      },
+      {
+        "threshold": 1014,
+        "model": {
+          "type": "model",
+          "model": "menu/menuranks"
+        }
+      },
+      {
+        "threshold": 1015,
+        "model": {
+          "type": "model",
+          "model": "menu/menujobs"
+        }
+      },
+      {
+        "threshold": 1016,
+        "model": {
+          "type": "model",
+          "model": "menu/menuah"
+        }
+      },
+      {
+        "threshold": 1017,
+        "model": {
+          "type": "model",
+          "model": "menu/menurtp"
+        }
+      },
+      {
+        "threshold": 1018,
+        "model": {
+          "type": "model",
+          "model": "menu/menuwarps"
+        }
+      },
+      {
+        "threshold": 1019,
+        "model": {
+          "type": "model",
+          "model": "menu/menushop"
+        }
+      },
+      {
+        "threshold": 1020,
+        "model": {
+          "type": "model",
+          "model": "menu/menuvouchers"
+        }
+      },
+      {
+        "threshold": 1021,
+        "model": {
+          "type": "model",
+          "model": "menu/menucosmetics"
+        }
+      },
+      {
+        "threshold": 1022,
+        "model": {
+          "type": "model",
+          "model": "menu/menuclose"
+        }
+      },
+      {
+        "threshold": 1023,
+        "model": {
+          "type": "model",
+          "model": "vouchers/jobs_income_boost"
+        }
+      },
+      {
+        "threshold": 1024,
+        "model": {
+          "type": "model",
+          "model": "vouchers/jobs_exp_boost"
+        }
+      },
+      {
+        "threshold": 1025,
+        "model": {
+          "type": "model",
+          "model": "vouchers/mcmmo_exp_boost"
+        }
+      },
+      {
+        "threshold": 1026,
+        "model": {
+          "type": "model",
+          "model": "vouchers/mega_boost"
+        }
+      },
+      {
+        "threshold": 1027,
+        "model": {
+          "type": "model",
+          "model": "vouchers/jobs_income"
+        }
+      },
+      {
+        "threshold": 1028,
+        "model": {
+          "type": "model",
+          "model": "vouchers/jobs_exp"
+        }
+      },
+      {
+        "threshold": 1029,
+        "model": {
+          "type": "model",
+          "model": "vouchers/claim_blocks_one"
+        }
+      },
+      {
+        "threshold": 1030,
+        "model": {
+          "type": "model",
+          "model": "vouchers/claim_blocks_two"
+        }
+      },
+      {
+        "threshold": 1031,
+        "model": {
+          "type": "model",
+          "model": "vouchers/fly"
+        }
+      },
+      {
+        "threshold": 1032,
+        "model": {
+          "type": "model",
+          "model": "vouchers/join_leave"
+        }
+      },
+      {
+        "threshold": 1033,
+        "model": {
+          "type": "model",
+          "model": "vouchers/keep_exp"
+        }
+      },
+      {
+        "threshold": 1034,
+        "model": {
+          "type": "model",
+          "model": "vouchers/mcmmo_cooldown"
+        }
+      },
+      {
+        "threshold": 1035,
+        "model": {
+          "type": "model",
+          "model": "vouchers/morph"
+        }
+      },
+      {
+        "threshold": 1036,
+        "model": {
+          "type": "model",
+          "model": "vouchers/name_tag"
+        }
+      },
+      {
+        "threshold": 1037,
+        "model": {
+          "type": "model",
+          "model": "vouchers/no_phantoms"
+        }
+      },
+      {
+        "threshold": 1038,
+        "model": {
+          "type": "model",
+          "model": "vouchers/no_rtp_delay"
+        }
+      },
+      {
+        "threshold": 1039,
+        "model": {
+          "type": "model",
+          "model": "vouchers/no_tp_delay"
+        }
+      },
+      {
+        "threshold": 1040,
+        "model": {
+          "type": "model",
+          "model": "vouchers/particle"
+        }
+      },
+      {
+        "threshold": 1041,
+        "model": {
+          "type": "model",
+          "model": "vouchers/vote_points"
+        }
+      },
+      {
+        "threshold": 1042,
+        "model": {
+          "type": "model",
+          "model": "vouchers/wings"
+        }
+      },
+      {
+        "threshold": 1043,
+        "model": {
+          "type": "model",
+          "model": "vouchers/bow_trail"
+        }
+      },
+      {
+        "threshold": 1044,
+        "model": {
+          "type": "model",
+          "model": "vouchers/death_message"
+        }
+      },
+      {
+        "threshold": 1045,
+        "model": {
+          "type": "model",
+          "model": "vouchers/mcmmo_exp"
+        }
+      },
+      {
+        "threshold": 1046,
+        "model": {
+          "type": "model",
+          "model": "vouchers/morph_temp"
+        }
+      },
+      {
+        "threshold": 1047,
+        "model": {
+          "type": "model",
+          "model": "menu/menusettings"
+        }
+      },
+      {
+        "threshold": 1048,
+        "model": {
+          "type": "model",
+          "model": "menu/menuon"
+        }
+      },
+      {
+        "threshold": 1049,
+        "model": {
+          "type": "model",
+          "model": "menu/menuoff"
+        }
+      },
+      {
+        "threshold": 1050,
+        "model": {
+          "type": "model",
+          "model": "menu/menuwardrobe"
+        }
+      },
+      {
+        "threshold": 1051,
+        "model": {
+          "type": "model",
+          "model": "vouchers/boss_discount"
+        }
+      },
+      {
+        "threshold": 1052,
+        "model": {
+          "type": "model",
+          "model": "vouchers/rain_voucher"
+        }
+      },
+      {
+        "threshold": 1053,
+        "model": {
+          "type": "model",
+          "model": "menu/menuclaims"
+        }
+      },
+      {
+        "threshold": 1133,
+        "model": {
+          "type": "model",
+          "model": "fishing_pack/pearl"
+        }
+      },
+      {
+        "threshold": 1180,
+        "model": {
+          "type": "model",
+          "model": "fishing_pack/worm_bait"
+        }
+      },
+      {
+        "threshold": 1184,
+        "model": {
+          "type": "model",
+          "model": "fishing_pack/common_fishing_bait"
+        }
+      },
+      {
+        "threshold": 1185,
+        "model": {
+          "type": "model",
+          "model": "fishing_pack/rare_fishing_bait"
+        }
+      },
+      {
+        "threshold": 1186,
+        "model": {
+          "type": "model",
+          "model": "fishing_pack/epic_fishing_bait"
+        }
+      },
+      {
+        "threshold": 1187,
+        "model": {
+          "type": "model",
+          "model": "fishing_pack/legendary_fishing_bait"
+        }
+      },
+      {
+        "threshold": 2001,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/para_hat"
+        }
+      },
+      {
+        "threshold": 2002,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/para_tail"
+        }
+      },
+      {
+        "threshold": 2003,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/tric_hat"
+        }
+      },
+      {
+        "threshold": 2004,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/tric_tail"
+        }
+      },
+      {
+        "threshold": 2005,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/tyra_hat"
+        }
+      },
+      {
+        "threshold": 2006,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/tyra_tail"
+        }
+      },
+      {
+        "threshold": 2007,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/anky_hat"
+        }
+      },
+      {
+        "threshold": 2008,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/anky_tail"
+        }
+      },
+      {
+        "threshold": 2009,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/brac_hat"
+        }
+      },
+      {
+        "threshold": 2010,
+        "model": {
+          "type": "model",
+          "model": "hmc/dino_pack/brac_tail"
+        }
+      },
+      {
+        "threshold": 2011,
+        "model": {
+          "type": "model",
+          "model": "hmc/valen_pack/heart_eyes"
+        }
+      },
+      {
+        "threshold": 2012,
+        "model": {
+          "type": "model",
+          "model": "hmc/valen_pack/teddy_bear"
+        }
+      },
+      {
+        "threshold": 2013,
+        "model": {
+          "type": "model",
+          "model": "hmc/valen_pack/flower_bouquet"
+        }
+      },
+      {
+        "threshold": 2014,
+        "model": {
+          "type": "model",
+          "model": "hmc/valen_pack/heart_arrow"
+        }
+      },
+      {
+        "threshold": 2015,
+        "model": {
+          "type": "model",
+          "model": "scarecrow_set/doctor_mask"
+        }
+      },
+      {
+        "threshold": 2016,
+        "model": {
+          "type": "model",
+          "model": "scarecrow_set/lantern"
+        }
+      },
+      {
+        "threshold": 2017,
+        "model": {
+          "type": "model",
+          "model": "coven_set/witch_hat"
+        }
+      },
+      {
+        "threshold": 2018,
+        "model": {
+          "type": "model",
+          "model": "2025_set/cake_hat"
+        }
+      },
+      {
+        "threshold": 2019,
+        "model": {
+          "type": "model",
+          "model": "2025_set/strawberry_hat"
+        }
+      },
+      {
+        "threshold": 2020,
+        "model": {
+          "type": "model",
+          "model": "stpatrick2025/hat"
+        }
+      },
+      {
+        "threshold": 2021,
+        "model": {
+          "type": "model",
+          "model": "stpatrick2025/backpack"
+        }
+      },
+      {
+        "threshold": 2022,
+        "model": {
+          "type": "model",
+          "model": "stpatrick2025/umbrella"
+        }
+      },
+      {
+        "threshold": 2023,
+        "model": {
+          "type": "model",
+          "model": "monarch_set/wings"
+        }
+      },
+      {
+        "threshold": 2024,
+        "model": {
+          "type": "model",
+          "model": "hmc/vulengate_hats/antennas"
+        }
+      },
+      {
+        "threshold": 2025,
+        "model": {
+          "type": "model",
+          "model": "hmc/easter_set/basket"
+        }
+      },
+      {
+        "threshold": 2026,
+        "model": {
+          "type": "model",
+          "model": "hmc/easter_set/bunny"
+        }
+      },
+      {
+        "threshold": 2027,
+        "model": {
+          "type": "model",
+          "model": "hmc/easter_set/ears"
+        }
+      },
+      {
+        "threshold": 2028,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/bracelet"
+        }
+      },
+      {
+        "threshold": 2029,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/crown"
+        }
+      },
+      {
+        "threshold": 2030,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/geode"
+        }
+      },
+      {
+        "threshold": 2031,
+        "model": {
+          "type": "model",
+          "model": "hmc/fishing_set/hat"
+        }
+      },
+      {
+        "threshold": 2032,
+        "model": {
+          "type": "model",
+          "model": "hmc/fishing_set/basket"
+        }
+      },
+      {
+        "threshold": 2033,
+        "model": {
+          "type": "model",
+          "model": "hmc/fishing_set/box"
+        }
+      },
+      {
+        "threshold": 2034,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/coconut_hat"
+        }
+      },
+      {
+        "threshold": 2035,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/cool_duck_hat"
+        }
+      },
+      {
+        "threshold": 2036,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/crab_hat"
+        }
+      },
+      {
+        "threshold": 2037,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/ice_cream_cone_hat"
+        }
+      },
+      {
+        "threshold": 2038,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/life_buoy_hat"
+        }
+      },
+      {
+        "threshold": 2039,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/octopus_hat"
+        }
+      },
+      {
+        "threshold": 2040,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/shark_fin_hat"
+        }
+      },
+      {
+        "threshold": 2041,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/snorkel_hat"
+        }
+      },
+      {
+        "threshold": 2042,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/tiki_mask_hat"
+        }
+      },
+      {
+        "threshold": 2043,
+        "model": {
+          "type": "model",
+          "model": "hmc/summer_set/tropical_hat"
+        }
+      },
+      {
+        "threshold": 2044,
+        "model": {
+          "type": "model",
+          "model": "pharaoh_set/pharaoh_mask"
+        }
+      },
+      {
+        "threshold": 2045,
+        "model": {
+          "type": "model",
+          "model": "hmc/knight_set/helmet"
+        }
+      },
+      {
+        "threshold": 2046,
+        "model": {
+          "type": "model",
+          "model": "hmc/knight_set/backpack"
+        }
+      },
+      {
+        "threshold": 2047,
+        "model": {
+          "type": "model",
+          "model": "hmc/knight_set/flag"
+        }
+      },
+      {
+        "threshold": 2048,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/crabhat"
+        }
+      },
+      {
+        "threshold": 2049,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/flamingofloatie"
+        }
+      },
+      {
+        "threshold": 2050,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/icelolly"
+        }
+      },
+      {
+        "threshold": 2051,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/melonhat"
+        }
+      },
+      {
+        "threshold": 2052,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/pineapple"
+        }
+      },
+      {
+        "threshold": 2053,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/royalcloak"
+        }
+      },
+      {
+        "threshold": 2054,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/royalcrown"
+        }
+      },
+      {
+        "threshold": 2055,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/royalsceptre"
+        }
+      },
+      {
+        "threshold": 2056,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/shipwheel"
+        }
+      },
+      {
+        "threshold": 2057,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/skull"
+        }
+      },
+      {
+        "threshold": 2058,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/sunflowerhat"
+        }
+      },
+      {
+        "threshold": 2059,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/sunglasses"
+        }
+      },
+      {
+        "threshold": 2060,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/ufohat"
+        }
+      },
+      {
+        "threshold": 2061,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/wingsblue"
+        }
+      },
+      {
+        "threshold": 2062,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/wingsred"
+        }
+      },
+      {
+        "threshold": 2063,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/piratehat"
+        }
+      },
+      {
+        "threshold": 2064,
+        "model": {
+          "type": "model",
+          "model": "hmc/july2025_set/coconutdrink"
+        }
+      },
+      {
+        "threshold": 2065,
+        "model": {
+          "type": "model",
+          "model": "cryptid_set/monsterbook"
+        }
+      },
+      {
+        "threshold": 2066,
+        "model": {
+          "type": "model",
+          "model": "cryptid_set/wings"
+        }
+      },
+      {
+        "threshold": 2067,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/pumpkin_head"
+        }
+      },
+      {
+        "threshold": 2068,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/skeleton_head"
+        }
+      },
+      {
+        "threshold": 2069,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/witch_hat"
+        }
+      },
+      {
+        "threshold": 2070,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/big_eye"
+        }
+      },
+      {
+        "threshold": 2071,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/cauldron_hat"
+        }
+      },
+      {
+        "threshold": 2072,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/cimetery_hat"
+        }
+      },
+      {
+        "threshold": 2073,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/franck"
+        }
+      },
+      {
+        "threshold": 2074,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/ghost_head"
+        }
+      },
+      {
+        "threshold": 2075,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/knife_hat"
+        }
+      },
+      {
+        "threshold": 2076,
+        "model": {
+          "type": "model",
+          "model": "halloween2025_set/mummy"
+        }
+      },
+      {
+        "threshold": 2077,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/decorated_antlers_hat"
+        }
+      },
+      {
+        "threshold": 2078,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/elf_hat"
+        }
+      },
+      {
+        "threshold": 2079,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/gingerbread_beanie_hat"
+        }
+      },
+      {
+        "threshold": 2080,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/golden_bell_hat"
+        }
+      },
+      {
+        "threshold": 2081,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/golden_hair_bow_hat"
+        }
+      },
+      {
+        "threshold": 2082,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/mrs_claus_hat"
+        }
+      },
+      {
+        "threshold": 2083,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/nutcracker_hat"
+        }
+      },
+      {
+        "threshold": 2084,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/present_hat"
+        }
+      },
+      {
+        "threshold": 2085,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/santa_claus_hat"
+        }
+      },
+      {
+        "threshold": 2086,
+        "model": {
+          "type": "model",
+          "model": "hmc/dec2025_set/tree_beanie_hat"
+        }
+      },
+      {
+        "threshold": 2087,
+        "model": {
+          "type": "model",
+          "model": "winteranimal_set/hat"
+        }
+      },
+      {
+        "threshold": 2088,
+        "model": {
+          "type": "model",
+          "model": "krampus_set/hat"
+        }
+      },
+      {
+        "threshold": 2089,
+        "model": {
+          "type": "model",
+          "model": "2026_set/wings"
+        }
+      },
+      {
+        "threshold": 2090,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/bee_hat"
+        }
+      },
+      {
+        "threshold": 2091,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/cat_ears"
+        }
+      },
+      {
+        "threshold": 2092,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/deer_ears"
+        }
+      },
+      {
+        "threshold": 2093,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/hatter"
+        }
+      },
+      {
+        "threshold": 2094,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/mouse_ears"
+        }
+      },
+      {
+        "threshold": 2095,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/mushroom_hat"
+        }
+      },
+      {
+        "threshold": 2096,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/snail_helmet"
+        }
+      },
+      {
+        "threshold": 2097,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/sprout"
+        }
+      },
+      {
+        "threshold": 2098,
+        "model": {
+          "type": "model",
+          "model": "hmc/forest_set/sproutling"
+        }
+      },
+      {
+        "threshold": 2099,
+        "model": {
+          "type": "model",
+          "model": "hmc/2026_set/hat"
+        }
+      },
+      {
+        "threshold": 2100,
+        "model": {
+          "type": "model",
+          "model": "hmc/2026_set/balloon"
+        }
+      },
+      {
+        "threshold": 2101,
+        "model": {
+          "type": "model",
+          "model": "hmc/2026_set/wings"
+        }
+      },
+      {
+        "threshold": 2102,
+        "model": {
+          "type": "model",
+          "model": "hmc/vulengate_hats/hearts_hat"
+        }
+      },
+      {
+        "threshold": 2103,
+        "model": {
+          "type": "model",
+          "model": "bakery_set/hat"
+        }
+      },
+      {
+        "threshold": 2104,
+        "model": {
+          "type": "model",
+          "model": "gardening_set/gnome"
+        }
+      },
+      {
+        "threshold": 2105,
+        "model": {
+          "type": "model",
+          "model": "breakfast_set/wings"
+        }
+      },
+      {
+        "threshold": 2106,
+        "model": {
+          "type": "model",
+          "model": "breakfast_set/egg_pan"
+        }
+      },
+      {
+        "threshold": 2107,
+        "model": {
+          "type": "model",
+          "model": "extraterrestrial_set/ray_gun"
+        }
+      },
+      {
+        "threshold": 3001,
+        "model": {
+          "type": "model",
+          "model": "tokens/sword_token"
+        }
+      },
+      {
+        "threshold": 3002,
+        "model": {
+          "type": "model",
+          "model": "tokens/remover_token"
+        }
+      },
+      {
+        "threshold": 3003,
+        "model": {
+          "type": "model",
+          "model": "tokens/extractor"
+        }
+      },
+      {
+        "threshold": 3004,
+        "model": {
+          "type": "model",
+          "model": "tokens/bow"
+        }
+      },
+      {
+        "threshold": 3005,
+        "model": {
+          "type": "model",
+          "model": "tokens/crossbow"
+        }
+      },
+      {
+        "threshold": 3006,
+        "model": {
+          "type": "model",
+          "model": "tokens/axe"
+        }
+      },
+      {
+        "threshold": 3007,
+        "model": {
+          "type": "model",
+          "model": "tokens/hoe"
+        }
+      },
+      {
+        "threshold": 3008,
+        "model": {
+          "type": "model",
+          "model": "tokens/pickaxe"
+        }
+      },
+      {
+        "threshold": 3009,
+        "model": {
+          "type": "model",
+          "model": "tokens/rod"
+        }
+      },
+      {
+        "threshold": 3010,
+        "model": {
+          "type": "model",
+          "model": "tokens/shield"
+        }
+      },
+      {
+        "threshold": 3011,
+        "model": {
+          "type": "model",
+          "model": "tokens/shovel"
+        }
+      },
+      {
+        "threshold": 3012,
+        "model": {
+          "type": "model",
+          "model": "tokens/tools"
+        }
+      },
+      {
+        "threshold": 4001,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/knight/trophy"
+        }
+      },
+      {
+        "threshold": 4002,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/warden/trophy"
+        }
+      },
+      {
+        "threshold": 4003,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/skeleton/trophy"
+        }
+      },
+      {
+        "threshold": 4004,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/fishtrophy"
+        }
+      },
+      {
+        "threshold": 4005,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/minotaur/trophy"
+        }
+      },
+      {
+        "threshold": 4006,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/defender/trophy"
+        }
+      },
+      {
+        "threshold": 4007,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/frostclaw/trophy"
+        }
+      },
+      {
+        "threshold": 4008,
+        "model": {
+          "type": "model",
+          "model": "jeqo/battlepass/bps7trophy"
+        }
+      },
+      {
+        "threshold": 4009,
+        "model": {
+          "type": "model",
+          "model": "jeqo/battlepass/bps8trophy"
+        }
+      },
+      {
+        "threshold": 4010,
+        "model": {
+          "type": "model",
+          "model": "jeqo/battlepass/bps9trophy"
+        }
+      },
+      {
+        "threshold": 5001,
+        "model": {
+          "type": "model",
+          "model": "menu/menubossnext"
+        }
+      },
+      {
+        "threshold": 5002,
+        "model": {
+          "type": "model",
+          "model": "menu/menubossprev"
+        }
+      },
+      {
+        "threshold": 5003,
+        "model": {
+          "type": "model",
+          "model": "menu/menubossfight"
+        }
+      },
+      {
+        "threshold": 5004,
+        "model": {
+          "type": "model",
+          "model": "menu/menubossinfo"
+        }
+      },
+      {
+        "threshold": 5005,
+        "model": {
+          "type": "model",
+          "model": "menu/menubossdrop"
+        }
+      },
+      {
+        "threshold": 5006,
+        "model": {
+          "type": "model",
+          "model": "menu/voteiconyes"
+        }
+      },
+      {
+        "threshold": 5007,
+        "model": {
+          "type": "model",
+          "model": "menu/voteiconno"
+        }
+      },
+      {
+        "threshold": 5008,
+        "model": {
+          "type": "model",
+          "model": "menu/nextpageicon"
+        }
+      },
+      {
+        "threshold": 5009,
+        "model": {
+          "type": "model",
+          "model": "menu/lastpageicon"
+        }
+      },
+      {
+        "threshold": 5010,
+        "model": {
+          "type": "model",
+          "model": "menu/closemenuicon"
+        }
+      },
+      {
+        "threshold": 5011,
+        "model": {
+          "type": "model",
+          "model": "menu/notifyicon"
+        }
+      },
+      {
+        "threshold": 5012,
+        "model": {
+          "type": "model",
+          "model": "menu/market_star"
+        }
+      },
+      {
+        "threshold": 5013,
+        "model": {
+          "type": "model",
+          "model": "menu/infoicon"
+        }
+      },
+      {
+        "threshold": 9999,
+        "model": {
+          "type": "model",
+          "model": "menu/crateart"
+        }
+      },
+      {
+        "threshold": 10000,
+        "model": {
+          "type": "model",
+          "model": "menu/petcrateart"
+        }
+      },
+      {
+        "threshold": 10001,
+        "model": {
+          "type": "model",
+          "model": "menu/monarchcrateart"
+        }
+      },
+      {
+        "threshold": 10002,
+        "model": {
+          "type": "model",
+          "model": "menu/gemstonecrateart"
+        }
+      },
+      {
+        "threshold": 10003,
+        "model": {
+          "type": "model",
+          "model": "menu/fishingcrateart"
+        }
+      },
+      {
+        "threshold": 10004,
+        "model": {
+          "type": "model",
+          "model": "menu/knightcrateart"
+        }
+      },
+      {
+        "threshold": 10005,
+        "model": {
+          "type": "model",
+          "model": "menu/mythologycrateart"
+        }
+      },
+      {
+        "threshold": 10006,
+        "model": {
+          "type": "model",
+          "model": "menu/softwarecrateart"
+        }
+      },
+      {
+        "threshold": 10007,
+        "model": {
+          "type": "model",
+          "model": "menu/cryptidcrateart"
+        }
+      },
+      {
+        "threshold": 10008,
+        "model": {
+          "type": "model",
+          "model": "menu/gothiccrateart"
+        }
+      },
+      {
+        "threshold": 10009,
+        "model": {
+          "type": "model",
+          "model": "menu/vacationcrateart"
+        }
+      },
+      {
+        "threshold": 10010,
+        "model": {
+          "type": "model",
+          "model": "menu/dragoncrateart"
+        }
+      },
+      {
+        "threshold": 10011,
+        "model": {
+          "type": "model",
+          "model": "menu/2026crateart"
+        }
+      },
+      {
+        "threshold": 10012,
+        "model": {
+          "type": "model",
+          "model": "menu/bakerycrateart"
+        }
+      },
+      {
+        "threshold": 10013,
+        "model": {
+          "type": "model",
+          "model": "menu/gardencrateart"
+        }
+      },
+      {
+        "threshold": 10014,
+        "model": {
+          "type": "model",
+          "model": "menu/pondcrateart"
+        }
+      },
+      {
+        "threshold": 10015,
+        "model": {
+          "type": "model",
+          "model": "menu/breakfastcrateart"
+        }
+      },
+      {
+        "threshold": 10016,
+        "model": {
+          "type": "model",
+          "model": "menu/extraterrestrialcrateart"
+        }
+      },
+      {
+        "threshold": 20000,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_miner"
+        }
+      },
+      {
+        "threshold": 20001,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_woodcutter"
+        }
+      },
+      {
+        "threshold": 20002,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_hunter"
+        }
+      },
+      {
+        "threshold": 20003,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_angler"
+        }
+      },
+      {
+        "threshold": 20004,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_farmer"
+        }
+      },
+      {
+        "threshold": 20005,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_excavator"
+        }
+      },
+      {
+        "threshold": 20006,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_enchanter"
+        }
+      },
+      {
+        "threshold": 20007,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_baker"
+        }
+      },
+      {
+        "threshold": 20008,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_maxed"
+        }
+      },
+      {
+        "threshold": 20009,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_supermaxed"
+        }
+      },
+      {
+        "threshold": 20010,
+        "model": {
+          "type": "model",
+          "model": "menu/jobs_check"
+        }
+      },
+      {
+        "threshold": 49998,
+        "model": {
+          "type": "model",
+          "model": "customfishing/util/splash_water"
+        }
+      },
+      {
+        "threshold": 49999,
+        "model": {
+          "type": "model",
+          "model": "customfishing/util/splash_lava"
+        }
+      },
+      {
+        "threshold": 50000,
+        "model": {
+          "type": "model",
+          "model": "customfishing/util/fishfinder"
+        }
+      },
+      {
+        "threshold": 60000,
+        "model": {
+          "type": "model",
+          "model": "custom/prideflag"
+        }
+      },
+      {
+        "threshold": 60001,
+        "model": {
+          "type": "model",
+          "model": "custom/golem_display"
+        }
+      }
+    ]
+  }
+}

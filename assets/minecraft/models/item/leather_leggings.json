@@ -1,0 +1,39 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_leggings",
+		"layer1": "item/leather_leggings_overlay"
+	},
+	
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "warden_set/leggings"},
+		{ "predicate": {"custom_model_data": 3}, "model": "wither_set/leggings"},
+        { "predicate": {"custom_model_data": 4}, "model": "enderdragon_set/leggings"},
+		{ "predicate": {"custom_model_data": 5}, "model": "art_set/leggings"},
+		{ "predicate": {"custom_model_data": 6}, "model": "arctic_set/leggings"},
+		{ "predicate": {"custom_model_data": 9}, "model": "arcade_set/leggings"},
+		{ "predicate": {"custom_model_data": 10}, "model": "2024_set/leggings"},
+		{ "predicate": {"custom_model_data": 11}, "model": "planetary_set/leggings"},
+		{ "predicate": {"custom_model_data": 12}, "model": "guardian_set/leggings"},
+		{ "predicate": {"custom_model_data": 13}, "model": "guardianel_set/leggings"},
+		{ "predicate": {"custom_model_data": 14}, "model": "aviary_set/leggings"},
+		{ "predicate": {"custom_model_data": 15}, "model": "cave_set/leggings"},
+		{ "predicate": {"custom_model_data": 16}, "model": "frog_set/leggings"},
+		{ "predicate": {"custom_model_data": 17}, "model": "turtle_set/leggings"},
+		{ "predicate": {"custom_model_data": 18}, "model": "hero_set/leggings"},
+		{ "predicate": {"custom_model_data": 19}, "model": "camping_set/leggings"},
+		{ "predicate": {"custom_model_data": 20}, "model": "weather_set/leggings"},
+		{ "predicate": {"custom_model_data": 21}, "model": "desert_set/leggings"},
+		{ "predicate": {"custom_model_data": 22}, "model": "scarecrow_set/leggings"},
+		{ "predicate": {"custom_model_data": 23}, "model": "vampire_set/leggings"},
+		{ "predicate": {"custom_model_data": 24}, "model": "coven_set/leggings"},
+		{ "predicate": {"custom_model_data": 25}, "model": "library_set/leggings"},
+		{ "predicate": {"custom_model_data": 26}, "model": "celebration_set/leggings"},
+		{ "predicate": {"custom_model_data": 27}, "model": "sweet_set/leggings"},
+		{ "predicate": {"custom_model_data": 28}, "model": "toy_set/leggings"},
+		{ "predicate": {"custom_model_data": 29}, "model": "archaeology_set/leggings"},
+		{ "predicate": {"custom_model_data": 30}, "model": "2025_set/leggings"},
+		{ "predicate": {"custom_model_data": 31}, "model": "wyrmsteel_set/leggings"},
+		{ "predicate": {"custom_model_data": 32}, "model": "pet_set/leggings"}
+	]
+}

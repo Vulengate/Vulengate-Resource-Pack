@@ -1,0 +1,148 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"2": "turtle_set/armor_leggings",
+		"particle": "turtle_set/armor_leggings"
+	},
+	"elements": [
+		{
+			"name": "left_leg",
+			"from": [-0.4, 0.5, 8.5],
+			"to": [4.6, 13.5, 13.5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [-4, 0, 3]},
+			"faces": {
+				"north": {"uv": [2, 10, 1, 16], "texture": "#2"},
+				"east": {"uv": [3, 10, 2, 16], "texture": "#2"},
+				"south": {"uv": [4, 10, 3, 16], "texture": "#2"},
+				"west": {"uv": [1, 10, 0, 16], "texture": "#2"},
+				"up": {"uv": [1, 10, 2, 8], "texture": "#2"},
+				"down": {"uv": [2, 8, 3, 10], "texture": "#2"}
+			}
+		},
+		{
+			"name": "left_leg",
+			"from": [4.6, 13.5, 13.5],
+			"to": [-0.4, 0.5, 8.5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [-4, 0, 3]},
+			"faces": {
+				"north": {"uv": [4, 16, 3, 10], "texture": "#2"},
+				"east": {"uv": [1, 16, 0, 10], "texture": "#2"},
+				"south": {"uv": [2, 16, 1, 10], "texture": "#2"},
+				"west": {"uv": [3, 16, 2, 10], "texture": "#2"},
+				"up": {"uv": [3, 8, 2, 10], "texture": "#2"},
+				"down": {"uv": [2, 10, 1, 8], "texture": "#2"}
+			}
+		},
+		{
+			"name": "right_leg",
+			"from": [8.4, 0.5, 5.5],
+			"to": [13.4, 13.5, 10.5],
+			"faces": {
+				"north": {"uv": [1, 10, 2, 16], "texture": "#2"},
+				"east": {"uv": [0, 10, 1, 16], "texture": "#2"},
+				"south": {"uv": [3, 10, 4, 16], "texture": "#2"},
+				"west": {"uv": [2, 10, 3, 16], "texture": "#2"},
+				"up": {"uv": [2, 10, 1, 8], "texture": "#2"},
+				"down": {"uv": [3, 8, 2, 10], "texture": "#2"}
+			}
+		},
+		{
+			"name": "right_leg",
+			"from": [13.4, 13.5, 10.5],
+			"to": [8.4, 0.5, 5.5],
+			"faces": {
+				"north": {"uv": [3, 16, 4, 10], "texture": "#2"},
+				"east": {"uv": [2, 16, 3, 10], "texture": "#2"},
+				"south": {"uv": [1, 16, 2, 10], "texture": "#2"},
+				"west": {"uv": [0, 16, 1, 10], "texture": "#2"},
+				"up": {"uv": [2, 8, 3, 10], "texture": "#2"},
+				"down": {"uv": [1, 10, 2, 8], "texture": "#2"}
+			}
+		},
+		{
+			"name": "waist",
+			"from": [12.75, 25.05, 5.25],
+			"to": [3.25, 11.55, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [7, 16, 5, 10], "texture": "#2"},
+				"east": {"uv": [8, 16, 7, 10], "texture": "#2"},
+				"south": {"uv": [10, 16, 8, 10], "texture": "#2"},
+				"west": {"uv": [5, 16, 4, 10], "texture": "#2"},
+				"up": {"uv": [7, 10, 9, 8], "texture": "#2"},
+				"down": {"uv": [5, 8, 7, 10], "texture": "#2"}
+			}
+		},
+		{
+			"name": "waist",
+			"from": [3.25, 11.6, 10.25],
+			"to": [12.75, 24.85, 5.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9.5, 16.5, -5.5]},
+			"faces": {
+				"north": {"uv": [8, 10, 10, 16], "texture": "#2"},
+				"east": {"uv": [7, 10, 8, 16], "texture": "#2"},
+				"south": {"uv": [5, 10, 7, 16], "texture": "#2"},
+				"west": {"uv": [4, 10, 5, 16], "texture": "#2"},
+				"up": {"uv": [5, 8, 7, 10], "texture": "#2"},
+				"down": {"uv": [7, 10, 9, 8], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0, 2, 2.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 0],
+			"translation": [0, 2, 2.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 160, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 160, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"ground": {
+			"rotation": [35, 0, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"gui": {
+			"rotation": [15, 150, 0],
+			"translation": [0, -1, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"translation": [0, 0, -2]
+		}
+	},
+	"groups": [
+		{
+			"name": "left_leg",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "right_leg",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [2, 3]
+		},
+		{
+			"name": "waist",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [4, 5]
+		}
+	]
+}

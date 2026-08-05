@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/brick"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 50000 }, "model": "advent_calendar/closed_present_1" },
+	{ "predicate": { "custom_model_data": 50001 }, "model": "advent_calendar/open_present_1" },
+	{ "predicate": { "custom_model_data": 50002 }, "model": "advent_calendar/open_present_2" },
+	{ "predicate": { "custom_model_data": 50003 }, "model": "advent_calendar/closed_present_2" },
+	{ "predicate": { "custom_model_data": 50004 }, "model": "advent_calendar/present_ready" },
+	{ "predicate": { "custom_model_data": 50005 }, "model": "advent_calendar/gift_yellow_moving_animation" },
+	{ "predicate": { "custom_model_data": 50006 }, "model": "advent_calendar/gift_purple_moving_animation" },
+	{ "predicate": { "custom_model_data": 50007 }, "model": "advent_calendar/gift_green_moving_animation" },
+	{ "predicate": { "custom_model_data": 50008 }, "model": "advent_calendar/rank_gift" },
+	{ "predicate": { "custom_model_data": 50009 }, "model": "advent_calendar/rank_2_gift" },
+	{ "predicate": { "custom_model_data": 50010 }, "model": "advent_calendar/snowfall2" },
+	{ "predicate": { "custom_model_data": 50011 }, "model": "advent_calendar/snowfall3" },
+	{ "predicate": { "custom_model_data": 50012 }, "model": "advent_calendar/vines_lights" },
+	{ "predicate": { "custom_model_data": 50013 }, "model": "advent_calendar/vines_lights2" },
+    { "predicate": { "custom_model_data": 50014 }, "model": "advent_calendar/open_present_green" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "advent_calendar/snow_menu_animation2",
+		"particle": "advent_calendar/snow_menu_animation2"
+	},
+	"elements": [
+		{
+			"from": [6, -3, 8],
+			"to": [6, 32, 24],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.5, 8], "texture": "#missing"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 4], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0.5, 4], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [-18.25, -15.75, 0],
+			"scale": [2.34, 2.34, 2.34]
+		}
+	}
+}

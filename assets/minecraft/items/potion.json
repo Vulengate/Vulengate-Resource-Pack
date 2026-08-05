@@ -1,0 +1,256 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/potion",
+            "tints": [
+                {
+                    "type": "minecraft:potion",
+                    "default": -13083194
+                }
+            ]
+        },
+        "entries": [
+            {
+                "threshold": 400001,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/acorn_hat"
+                }
+            },
+            {
+                "threshold": 400002,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/fedora_hat"
+                }
+            },
+            {
+                "threshold": 400003,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/fox_hat"
+                }
+            },
+            {
+                "threshold": 400004,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/mushroom_hat"
+                }
+            },
+            {
+                "threshold": 400005,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/owl_hat"
+                }
+            },
+            {
+                "threshold": 400006,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/patchwork_hat"
+                }
+            },
+            {
+                "threshold": 400007,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/pumpkin_hat"
+                }
+            },
+            {
+                "threshold": 400008,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/scarecrow_hat"
+                }
+            },
+            {
+                "threshold": 400009,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/squirrel_hat"
+                }
+            },
+            {
+                "threshold": 400010,
+                "model": {
+                    "type": "model",
+                    "model": "fallhats/turkey_hat"
+                }
+            },
+            {
+                "threshold": 400011,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/beanie_scarf_hat"
+                }
+            },
+            {
+                "threshold": 400012,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/ice_shard_crown_hat"
+                }
+            },
+            {
+                "threshold": 400013,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/penguin_hat"
+                }
+            },
+            {
+                "threshold": 400014,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/polar_bear_hat"
+                }
+            },
+            {
+                "threshold": 400015,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/raccoon_hat"
+                }
+            },
+            {
+                "threshold": 400016,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/red_beanie_hat"
+                }
+            },
+            {
+                "threshold": 400017,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/tundra_explorer_hat"
+                }
+            },
+            {
+                "threshold": 400018,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/winter_beanie_hat"
+                }
+            },
+            {
+                "threshold": 400019,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/winter_earmuffs_hat"
+                }
+            },
+            {
+                "threshold": 400020,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/yeti_hat"
+                }
+            },
+			{
+                "threshold": 400021,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/blue_beanie_hat"
+                }
+            },
+			{
+                "threshold": 400022,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/green_beanie_hat"
+                }
+            },
+			{
+                "threshold": 400023,
+                "model": {
+                    "type": "model",
+                    "model": "winterhats/yellow_beanie_hat"
+                }
+            },
+			{
+                "threshold": 400024,
+                "model": {
+                    "type": "model",
+                    "model": "hmc/vulengate_hats/party_hat"
+                }
+            },
+			{
+                "threshold": 400025,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/beehive_hat"
+                }
+            },
+			{
+                "threshold": 400026,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/blossom_hat"
+                }
+            },
+			{
+                "threshold": 400027,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/duck_hat"
+                }
+            },
+			{
+                "threshold": 400028,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/flower_garden_hat"
+                }
+            },
+			{
+                "threshold": 400029,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/frog_bucket_hat"
+                }
+            },
+			{
+                "threshold": 400030,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/gnome_hat"
+                }
+            },
+			{
+                "threshold": 400031,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/lemon_hat"
+                }
+            },
+			{
+                "threshold": 400032,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/mushroom_hat"
+                }
+            },
+			{
+                "threshold": 400033,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/rain_cloud_hat"
+                }
+            },
+			{
+                "threshold": 400034,
+                "model": {
+                    "type": "model",
+                    "model": "springhats2025/sun_hat"
+                }
+            }
+        ]
+    }
+}

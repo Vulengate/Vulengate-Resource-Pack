@@ -1,0 +1,425 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/diamond_sword"
+    },
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "warden_set/sword"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "halloween_set/sword"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "wither_set/sword"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "enderdragon_set/sword"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "art_set/sword"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "arctic_set/sword"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "arcade_set/sword"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "2024_set/sword"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "planetary_set/sword"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "guardian_set/sword"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "model",
+          "model": "guardianel_set/sword"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "model",
+          "model": "aviary_set/sword"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "model",
+          "model": "cave_set/sword"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "model",
+          "model": "frog_set/sword"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "model",
+          "model": "turtle_set/sword"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "model",
+          "model": "hero_set/sword"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "model",
+          "model": "camping_set/sword"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "model",
+          "model": "weather_set/sword"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "model",
+          "model": "desert_set/sword"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "model",
+          "model": "scarecrow_set/sword"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "model",
+          "model": "vampire_set/sword"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "model",
+          "model": "coven_set/sword"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "model",
+          "model": "library_set/sword"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "model",
+          "model": "celebration_set/sword"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "model",
+          "model": "sweet_set/sword"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "model",
+          "model": "toy_set/sword"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "model",
+          "model": "2025_set/sword"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "model",
+          "model": "pet_set/sword"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "model",
+          "model": "honeycomb_set/sword"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "model",
+          "model": "meadow_set/sword"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "monarch_set/sword"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "gemstone_set/sword"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "model",
+          "model": "fisherman_set/sword"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "knight_set/sword"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "mythology_set/sword"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "software_set/sword"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "cryptid_set/sword"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "gothic_set/sword"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "model",
+          "model": "vacation_set/sword"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "model",
+          "model": "dragon_set/sword"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "model",
+          "model": "winteranimal_set/sword"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "model",
+          "model": "krampus_set/sword"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "model",
+          "model": "2026_set/sword"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "model",
+          "model": "gardening_set/sword"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "model",
+          "model": "pond_set/sword"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "breakfast_set/sword"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "extraterrestrial_set/sword"
+        }
+      },
+      {
+        "threshold": 3001,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/butcher"
+        }
+      },
+      {
+        "threshold": 3002,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/crimson"
+        }
+      },
+      {
+        "threshold": 3003,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/crystal"
+        }
+      },
+      {
+        "threshold": 3004,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/dragon"
+        }
+      },
+      {
+        "threshold": 3005,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/fire"
+        }
+      },
+      {
+        "threshold": 3006,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/king"
+        }
+      },
+      {
+        "threshold": 3007,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/moonstone"
+        }
+      },
+      {
+        "threshold": 3008,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/poison"
+        }
+      },
+      {
+        "threshold": 3009,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/reaver"
+        }
+      },
+      {
+        "threshold": 3010,
+        "model": {
+          "type": "model",
+          "model": "adv_swords/spike"
+        }
+      },
+      {
+        "threshold": 4001,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/knight/sword"
+        }
+      },
+      {
+        "threshold": 4003,
+        "model": {
+          "type": "model",
+          "model": "boss_sets/skeleton/sword"
+        }
+      }
+    ]
+  }
+}
