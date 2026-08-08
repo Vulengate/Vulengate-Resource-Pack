@@ -3,7 +3,7 @@ name: Build Resource Pack
 on:
   push:
     branches:
-      - live
+      - live-v2
   workflow_dispatch:
 
 permissions:
