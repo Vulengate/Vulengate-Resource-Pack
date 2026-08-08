@@ -1,0 +1,25 @@
+name: Build Resource Pack
+
+on:
+  push:
+    branches:
+      - live
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create ZIP
+        run: |
+          mkdir output
+          git archive --format=zip --output=output/Vulengate-Resource-Pack.zip HEAD
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Vulengate-Resource-Pack
+          path: output/Vulengate-Resource-Pack.zip
