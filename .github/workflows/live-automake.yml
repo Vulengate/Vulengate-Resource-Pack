@@ -29,7 +29,7 @@ jobs:
         with:
           tag_name: live
           name: Live Resource Pack
-          prerelease: true
+          prerelease: false
           make_latest: false
           files: Vulengate-Resource-Pack.zip
           fail_on_unmatched_files: true
