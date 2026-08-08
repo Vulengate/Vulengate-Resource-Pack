@@ -153,6 +153,13 @@
           "type": "model",
           "model": "extraterrestrial_set/helmet"
         }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "spa_set/helmet"
+        }
       }
     ]
   }

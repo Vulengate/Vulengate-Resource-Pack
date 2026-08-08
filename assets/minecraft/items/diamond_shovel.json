@@ -230,6 +230,13 @@
           "type": "model",
           "model": "breakfast_set/shovel"
         }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "spa_set/shovel"
+        }
       }
     ]
   }

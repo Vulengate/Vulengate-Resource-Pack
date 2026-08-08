@@ -1107,6 +1107,76 @@
         }
       },
       {
+        "threshold": 2108,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/butterfly_hat"
+        }
+      },
+      {
+        "threshold": 2109,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/duckling_bucket_hat"
+        }
+      },
+      {
+        "threshold": 2110,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/flower_blossom_hat"
+        }
+      },
+      {
+        "threshold": 2111,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/flower_crown_hat"
+        }
+      },
+      {
+        "threshold": 2112,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/fresh_pie_hat"
+        }
+      },
+      {
+        "threshold": 2113,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/sprout_beanie_hat"
+        }
+      },
+      {
+        "threshold": 2114,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/strawberry_hat"
+        }
+      },
+      {
+        "threshold": 2115,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/sunflower_hat"
+        }
+      },
+      {
+        "threshold": 2116,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/sunflower_sun_hat"
+        }
+      },
+      {
+        "threshold": 2117,
+        "model": {
+          "type": "model",
+          "model": "springhats2026/tomato_hat"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",
@@ -1475,6 +1545,13 @@
         "model": {
           "type": "model",
           "model": "menu/extraterrestrialcrateart"
+        }
+      },
+      {
+        "threshold": 10017,
+        "model": {
+          "type": "model",
+          "model": "menu/spacrateart"
         }
       },
       {

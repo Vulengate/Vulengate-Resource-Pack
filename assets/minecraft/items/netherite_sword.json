@@ -351,6 +351,13 @@
         }
       },
       {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "spa_set/sword"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",

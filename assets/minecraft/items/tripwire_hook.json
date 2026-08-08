@@ -279,6 +279,13 @@
           "type": "model",
           "model": "extraterrestrial_set/key"
         }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "spa_set/key"
+        }
       }
     ]
   }

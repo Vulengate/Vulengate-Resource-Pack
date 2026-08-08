@@ -302,8 +302,18 @@
     },
     {
       "type": "directory",
+      "source": "spa_set",
+      "prefix": "spa_set/"
+    },
+    {
+      "type": "directory",
       "source": "springhats2025",
       "prefix": "springhats2025/"
+    },
+    {
+      "type": "directory",
+      "source": "springhats2026",
+      "prefix": "springhats2026/"
     },
     {
       "type": "directory",

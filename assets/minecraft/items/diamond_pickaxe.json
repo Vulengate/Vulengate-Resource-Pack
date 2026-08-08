@@ -349,6 +349,13 @@
           "type": "model",
           "model": "extraterrestrial_set/pickaxe"
         }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "model",
+          "model": "spa_set/pickaxe"
+        }
       }
     ]
   }

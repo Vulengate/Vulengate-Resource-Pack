@@ -1921,6 +1921,41 @@
         }
       },
       {
+        "threshold": 58,
+        "model": {
+          "type": "range_dispatch",
+          "property": "use_duration",
+          "scale": 0.05,
+          "fallback": {
+            "type": "model",
+            "model": "spa_set/bow"
+          },
+          "entries": [
+            {
+              "threshold": 0.0,
+              "model": {
+                "type": "model",
+                "model": "spa_set/bow_pulling_0"
+              }
+            },
+            {
+              "threshold": 0.65,
+              "model": {
+                "type": "model",
+                "model": "spa_set/bow_pulling_1"
+              }
+            },
+            {
+              "threshold": 0.9,
+              "model": {
+                "type": "model",
+                "model": "spa_set/bow_pulling_2"
+              }
+            }
+          ]
+        }
+      },
+      {
         "threshold": 4007,
         "model": {
           "type": "minecraft:condition",
