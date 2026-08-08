@@ -6,20 +6,30 @@ on:
       - live
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Create ZIP
         run: |
-          mkdir output
-          git archive --format=zip --output=output/Vulengate-Resource-Pack.zip HEAD
+          git archive \
+            --format=zip \
+            --output=Vulengate-Resource-Pack.zip \
+            HEAD
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload Release
+        uses: softprops/action-gh-release@v2
         with:
-          name: Vulengate-Resource-Pack
-          path: output/Vulengate-Resource-Pack.zip
+          tag_name: live
+          name: Live Resource Pack
+          prerelease: true
+          make_latest: false
+          files: Vulengate-Resource-Pack.zip
+          fail_on_unmatched_files: true
