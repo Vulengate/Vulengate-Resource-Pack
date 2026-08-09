@@ -1,0 +1,42 @@
+name: Build Live Resource Pack
+
+on:
+  push:
+    branches:
+      - live-hold
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Tag update as current tag
+        run: |
+          git tag -f live HEAD
+          git push -f origin refs/tags/live
+
+      - name: Create Minecraft resource pack
+        run: |
+          mkdir pack
+          git archive HEAD | tar -x -C pack
+          
+          find pack -depth -name '.*' -exec rm -rf {} +
+
+          cd pack
+          zip -r ../Vulengate-Resource-Pack.zip .
+
+      - name: Upload Current Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: live
+          name: Live Resource Pack
+          prerelease: false
+          make_latest: true
+          files: Vulengate-Resource-Pack.zip
+          fail_on_unmatched_files: true
