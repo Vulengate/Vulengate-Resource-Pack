@@ -19,10 +19,13 @@ jobs:
 
       - name: Create ZIP
         run: |
-          git archive \
-            --format=zip \
-            --output=Vulengate-Resource-Pack.zip \
-            HEAD
+          mkdir pack
+          git archive HEAD | tar -x -C pack
+
+          find pack -name '.*' -delete
+
+          cd pack
+          zip -r ../Vulengate-Resource-Pack.zip .
 
       - name: Upload Release
         uses: softprops/action-gh-release@v2
