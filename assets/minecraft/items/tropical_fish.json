@@ -617,6 +617,20 @@
         }
       },
       {
+        "threshold": 1089,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/calmwater_koi"
+        }
+      },
+      {
+        "threshold": 1090,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/harmonious_fish"
+        }
+      },
+      {
         "threshold": 2001,
         "model": {
           "type": "model",
