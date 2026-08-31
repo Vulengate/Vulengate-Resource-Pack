@@ -1,7 +1,16 @@
 {
-    "pack": {
-        "min_format": 75,
-		"max_format": 75,
-        "description": "Official Vulengate Resource Pack"
-    }
+  "pack": {
+    "min_format": 75,
+    "max_format": 88,
+    "description": "Official Vulengate Resource Pack"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "min_format": 83,
+        "max_format": 88,
+        "directory": "compat_26_1"
+      }
+    ]
+  }
 }
