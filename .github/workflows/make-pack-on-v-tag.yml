@@ -35,7 +35,7 @@ jobs:
           git archive HEAD | tar -x -C pack
           find pack -depth -name '.*' -exec rm -rf {} +
           cd pack
-          zip -r ../Vulengate-Resource-Pack.zip .
+          zip -r ../${{ github.ref_name }}.zip .
 
       # Add the minecraft usable zip too the release
       - name: Create/Update Release
@@ -45,5 +45,5 @@ jobs:
           name: ${{ github.ref_name }}
           prerelease: true
           make_latest: false
-          files: Vulengate-Resource-Pack.zip
+          files: ${{ github.ref_name }}.zip
           fail_on_unmatched_files: true
