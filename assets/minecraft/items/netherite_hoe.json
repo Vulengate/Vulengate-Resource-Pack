@@ -167,6 +167,20 @@
           "type": "model",
           "model": "pond_set/hoe"
         }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "safari_set/hoe"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "carnival_set/hoe"
+        }
       }
     ]
   }

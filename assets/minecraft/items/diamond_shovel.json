@@ -237,6 +237,20 @@
           "type": "model",
           "model": "spa_set/shovel"
         }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "safari_set/shovel"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "carnival_set/shovel"
+        }
       }
     ]
   }

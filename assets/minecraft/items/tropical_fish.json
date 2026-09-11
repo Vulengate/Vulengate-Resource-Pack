@@ -631,6 +631,20 @@
         }
       },
       {
+        "threshold": 1091,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/quilted_ray"
+        }
+      },
+      {
+        "threshold": 1092,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/jewel_fish"
+        }
+      },
+      {
         "threshold": 2001,
         "model": {
           "type": "model",

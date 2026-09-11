@@ -1177,6 +1177,34 @@
         }
       },
       {
+        "threshold": 2118,
+        "model": {
+          "type": "model",
+          "model": "safari_set/binoculars"
+        }
+      },
+      {
+        "threshold": 2119,
+        "model": {
+          "type": "model",
+          "model": "carnival_set/hat"
+        }
+      },
+      {
+        "threshold": 2120,
+        "model": {
+          "type": "model",
+          "model": "carnival_set/candyfloss"
+        }
+      },
+      {
+        "threshold": 2121,
+        "model": {
+          "type": "model",
+          "model": "patchwork_set/trophy"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",
@@ -1552,6 +1580,13 @@
         "model": {
           "type": "model",
           "model": "menu/spacrateart"
+        }
+      },
+      {
+        "threshold": 10018,
+        "model": {
+          "type": "model",
+          "model": "menu/patchworkcrateart"
         }
       },
       {

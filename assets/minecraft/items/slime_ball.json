@@ -48,6 +48,13 @@
           "type": "model",
           "model": "cluescrolls/scroll_extended_aug2026"
         }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "cluescrolls/scroll_extended_sep2026"
+        }
       }
     ]
   }

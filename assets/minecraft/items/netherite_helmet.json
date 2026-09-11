@@ -160,6 +160,27 @@
           "type": "model",
           "model": "spa_set/helmet"
         }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "model",
+          "model": "safari_set/helmet"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "model",
+          "model": "carnival_set/helmet"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "patchwork_set/helmet"
+        }
       }
     ]
   }

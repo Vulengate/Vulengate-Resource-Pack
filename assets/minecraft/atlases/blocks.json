@@ -87,6 +87,11 @@
     },
     {
       "type": "directory",
+      "source": "carnival_set",
+      "prefix": "carnival_set/"
+    },
+    {
+      "type": "directory",
       "source": "cave_set",
       "prefix": "cave_set/"
     },
@@ -272,6 +277,11 @@
     },
     {
       "type": "directory",
+      "source": "patchwork_set",
+      "prefix": "patchwork_set/"
+    },
+    {
+      "type": "directory",
       "source": "pet_set",
       "prefix": "pet_set/"
     },
@@ -289,6 +299,11 @@
       "type": "directory",
       "source": "pond_set",
       "prefix": "pond_set/"
+    },
+    {
+      "type": "directory",
+      "source": "safari_set",
+      "prefix": "safari_set/"
     },
     {
       "type": "directory",

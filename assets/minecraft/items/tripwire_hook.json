@@ -286,6 +286,13 @@
           "type": "model",
           "model": "spa_set/key"
         }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "model",
+          "model": "patchwork_set/key"
+        }
       }
     ]
   }
