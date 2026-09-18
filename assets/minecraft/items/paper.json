@@ -1359,6 +1359,13 @@
         }
       },
       {
+        "threshold": 4011,
+        "model": {
+          "type": "model",
+          "model": "jeqo/battlepass/bps10trophy"
+        }
+      },
+      {
         "threshold": 5001,
         "model": {
           "type": "model",
