@@ -181,6 +181,13 @@
           "type": "model",
           "model": "patchwork_set/leggings"
         }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "paranormal_set/leggings"
+        }
       }
     ]
   }

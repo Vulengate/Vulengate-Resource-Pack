@@ -365,6 +365,13 @@
         }
       },
       {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "paranormal_set/sword"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",

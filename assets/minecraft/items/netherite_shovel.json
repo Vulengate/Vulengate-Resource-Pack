@@ -265,6 +265,13 @@
           "type": "model",
           "model": "carnival_set/shovel"
         }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "paranormal_set/shovel"
+        }
       }
     ]
   }

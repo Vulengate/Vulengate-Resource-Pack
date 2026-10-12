@@ -293,6 +293,13 @@
           "type": "model",
           "model": "patchwork_set/key"
         }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "paranormal_set/key"
+        }
       }
     ]
   }

@@ -377,6 +377,13 @@
           "type": "model",
           "model": "patchwork_set/pickaxe"
         }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "model",
+          "model": "paranormal_set/pickaxe"
+        }
       }
     ]
   }

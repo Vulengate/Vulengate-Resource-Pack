@@ -1205,6 +1205,13 @@
         }
       },
       {
+        "threshold": 2122,
+        "model": {
+          "type": "model",
+          "model": "paranormal_set/trophy"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",
@@ -1594,6 +1601,13 @@
         "model": {
           "type": "model",
           "model": "menu/patchworkcrateart"
+        }
+      },
+      {
+        "threshold": 10019,
+        "model": {
+          "type": "model",
+          "model": "menu/paranormalcrateart"
         }
       },
       {

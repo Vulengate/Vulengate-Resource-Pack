@@ -277,6 +277,11 @@
     },
     {
       "type": "directory",
+      "source": "paranormal_set",
+      "prefix": "paranormal_set/"
+    },
+    {
+      "type": "directory",
       "source": "patchwork_set",
       "prefix": "patchwork_set/"
     },

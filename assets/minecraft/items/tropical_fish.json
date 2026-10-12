@@ -645,6 +645,55 @@
         }
       },
       {
+        "threshold": 1093,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/trill_fish"
+        }
+      },
+      {
+        "threshold": 1094,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/david_fish"
+        }
+      },
+      {
+        "threshold": 1095,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/chimera_fish"
+        }
+      },
+      {
+        "threshold": 1096,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/butterfly_fish_new"
+        }
+      },
+      {
+        "threshold": 1097,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/leafy_sea_dragon"
+        }
+      },
+      {
+        "threshold": 1098,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/ectomist_eel"
+        }
+      },
+      {
+        "threshold": 1099,
+        "model": {
+          "type": "model",
+          "model": "vulengate_fish/spooky_fish"
+        }
+      },
+      {
         "threshold": 2001,
         "model": {
           "type": "model",
