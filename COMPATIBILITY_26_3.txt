@@ -1,0 +1,15 @@
+Vulengate resource pack - Minecraft Java 26.3 compatibility
+
+This ZIP is the complete resource pack. Install it in place of v95b.zip.
+Minecraft 26.3 (resource format 97.1) automatically enables compat_26_3.
+The original format-88 assets are retained for Minecraft 26.2.
+
+The overlay uses the official 26.3 entity shader interfaces, ShaderC
+includes, explicit locations, glint UVs, and all OIT transparency passes.
+It preserves the existing custom armor atlas animation, tinting, and
+emissivity, the GUI-safe lightmap sampling, and dissolve item previews.
+It also migrates shade:false in 4 models (35 elements) to shade_direction_override:up.
+
+Validation covers ZIP integrity, JSON, resource preservation, and
+shader compilation against the official 26.3 includes/pipeline defines.
+Visual validation on a running Minecraft client is still required.
