@@ -386,6 +386,13 @@
         }
       },
       {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "rpg_set/sword"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",

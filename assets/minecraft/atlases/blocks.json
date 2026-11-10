@@ -414,6 +414,11 @@
       "type": "directory",
       "source": "wyrmsteel_set",
       "prefix": "wyrmsteel_set/"
+    },
+    {
+      "type": "directory",
+      "source": "rpg_set",
+      "prefix": "rpg_set/"
     }
   ]
 }

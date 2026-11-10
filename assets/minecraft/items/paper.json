@@ -1611,6 +1611,13 @@
         }
       },
       {
+        "threshold": 10020,
+        "model": {
+          "type": "model",
+          "model": "menu/rpgcrateart"
+        }
+      },
+      {
         "threshold": 20000,
         "model": {
           "type": "model",

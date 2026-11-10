@@ -188,6 +188,13 @@
           "type": "model",
           "model": "paranormal_set/helmet"
         }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "rpg_set/helmet"
+        }
       }
     ]
   }

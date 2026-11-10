@@ -300,6 +300,13 @@
           "type": "model",
           "model": "paranormal_set/key"
         }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "rpg_set/key"
+        }
       }
     ]
   }

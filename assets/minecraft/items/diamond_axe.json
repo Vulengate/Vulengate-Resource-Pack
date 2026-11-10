@@ -253,6 +253,13 @@
         }
       },
       {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "rpg_set/axe"
+        }
+      },
+      {
         "threshold": 4002,
         "model": {
           "type": "model",

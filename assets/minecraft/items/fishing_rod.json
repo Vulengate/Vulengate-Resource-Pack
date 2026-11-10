@@ -389,6 +389,21 @@
             "model": "carnival_set/fishing_rod"
           }
         }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "condition",
+          "property": "fishing_rod/cast",
+          "on_true": {
+            "type": "model",
+            "model": "rpg_set/fishing_rod_cast"
+          },
+          "on_false": {
+            "type": "model",
+            "model": "rpg_set/fishing_rod"
+          }
+        }
       }
     ]
   }

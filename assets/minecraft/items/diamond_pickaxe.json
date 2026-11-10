@@ -384,6 +384,13 @@
           "type": "model",
           "model": "paranormal_set/pickaxe"
         }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "model",
+          "model": "rpg_set/pickaxe"
+        }
       }
     ]
   }
