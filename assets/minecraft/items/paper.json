@@ -1212,6 +1212,13 @@
         }
       },
       {
+        "threshold": 2123,
+        "model": {
+          "type": "model",
+          "model": "rpg_set/trophy"
+        }
+      },
+      {
         "threshold": 3001,
         "model": {
           "type": "model",
