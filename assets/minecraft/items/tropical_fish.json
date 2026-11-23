@@ -701,6 +701,20 @@
                 }
             },
             {
+                "threshold": 1101,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/false_hydra"
+                }
+            },
+            {
+                "threshold": 1102,
+                "model": {
+                    "type": "model",
+                    "model": "vulengate_fish/cloaked_fish"
+                }
+            },
+            {
                 "threshold": 2001,
                 "model": {
                     "type": "model",
